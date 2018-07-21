@@ -21,3 +21,4 @@ for step in range(10):
     print(step, session.run(W))
     session.run(train)
 
+
