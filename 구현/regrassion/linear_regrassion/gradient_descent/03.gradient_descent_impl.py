@@ -12,12 +12,11 @@ hypothesis = w * x
 # Cost = {Σ 1->n (W(x) - y)^2} / 2n
 cost = flow.reduce_mean(flow.square(hypothesis - y))
 
-# 미분해서 자동으로 W값이 최소값으로 움직이게 함
-# 이 것이 바로 Gradient descent Algorithm
-
 # Gradient descent Algorithm 구현
 rate = 0.1
 desc = w - rate * flow.reduce_mean((w*x-y) * x)
+# 미분해서 자동으로 W값이 최소값으로 움직이게 함
+# 이 것이 Gradient descent Algorithm
 
 sess = flow.Session()
 # 세션 오픈
