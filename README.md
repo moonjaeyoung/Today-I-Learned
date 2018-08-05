@@ -21,6 +21,7 @@ Python Grammar Practice 🌌
 <a href="https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww">
 <img src="https://user-images.githubusercontent.com/38183241/43683633-ece630a4-98ca-11e8-86c9-4394e3497ca8.jpg"/></a>
 
+![image](https://user-images.githubusercontent.com/38183241/43684044-8d47a9a8-98d3-11e8-95e4-dd5dba46a959.png)
 
 
 ## 3. [머신러닝 기초와 텐서플로우](https://github.com/gusdnd852/TIL/tree/master/MachineLearning)
@@ -29,6 +30,7 @@ The Basics of MachineLearning and tensorflow 🤖
 <a href="https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm">
 <img src="https://user-images.githubusercontent.com/38183241/43683740-d2b21c82-98cc-11e8-9aee-897e91004cf5.jpg"/></a>
 
+![image](https://user-images.githubusercontent.com/38183241/43684044-8d47a9a8-98d3-11e8-95e4-dd5dba46a959.png)
 
 
 ## 4. [여름방학 웹스터디 자료](https://github.com/gusdnd852/TIL/tree/master/WebStudy) 
