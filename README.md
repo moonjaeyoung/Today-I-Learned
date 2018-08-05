@@ -10,13 +10,11 @@
 ## 목차 
 
 #### 1. [알고리즘 학습 💪](https://github.com/gusdnd852/TIL/tree/master/Algorithm) 
-
+Learning for Improving Algorithm Technique
 
 <a href="https://www.acmicpc.net">
 <img src="https://user-images.githubusercontent.com/38183241/43683763-736ff3a6-98cd-11e8-8114-20636ac0f3a2.jpg"/></a>
 
-
-Learning for Improving Algorithm Technique
 
 ----
 
