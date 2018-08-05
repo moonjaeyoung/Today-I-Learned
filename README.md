@@ -15,7 +15,7 @@ Learning for Improving Algorithm Technique 💪
 
 
 
-## 2. [파이썬 문법정리](https://github.com/gusdnd852/TIL/tree/master/PythonPractice) 
+## 2. [파이썬  문법정리](https://github.com/gusdnd852/TIL/tree/master/PythonPractice) 
 Python Grammar Practice 🌌
 
 <a href="https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww">
