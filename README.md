@@ -5,7 +5,6 @@
 
 이름을 클릭하면 해당 소스코드 파일로 이동하고, 이미지를 클릭하면 해당 학습자료의 링크로 이동합니다.
 
-## 목차 
 
 ## 1. [알고리즘 학습](https://github.com/gusdnd852/TIL/tree/master/Algorithm) 
 Learning for Improving Algorithm Technique 💪
