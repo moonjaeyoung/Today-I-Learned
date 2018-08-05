@@ -18,7 +18,7 @@
 
 Learning for Improving Algorithm Technique
 
--------
+===================================
 
 #### 2. [파이썬 문법정리 🌌](https://github.com/gusdnd852/TIL/tree/master/PythonPractice) 
 
@@ -29,7 +29,7 @@ Learning for Improving Algorithm Technique
 
 Python Grammar Practice
 
--------
+===================================
 
 #### 3. [머신러닝 기초와 텐서플로우 🤖](https://github.com/gusdnd852/TIL/tree/master/MachineLearning)
 
@@ -39,7 +39,7 @@ Python Grammar Practice
 
 The Basics of MachineLearning and tensorflow 
 
--------
+===================================
 
 #### 4. [여름방학 웹스터디 자료](https://github.com/gusdnd852/TIL/tree/master/WebStudy) 
 
