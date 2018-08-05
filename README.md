@@ -14,7 +14,6 @@ Learning for Improving Algorithm Technique 💪
 <img src="https://user-images.githubusercontent.com/38183241/43683763-736ff3a6-98cd-11e8-8114-20636ac0f3a2.jpg"/></a>
 
 
-----
 
 ## 2. [파이썬 문법정리](https://github.com/gusdnd852/TIL/tree/master/PythonPractice) 
 Python Grammar Practice 🌌
@@ -23,7 +22,6 @@ Python Grammar Practice 🌌
 <img src="https://user-images.githubusercontent.com/38183241/43683633-ece630a4-98ca-11e8-86c9-4394e3497ca8.jpg"/></a>
 
 
----
 
 ## 3. [머신러닝 기초와 텐서플로우](https://github.com/gusdnd852/TIL/tree/master/MachineLearning)
 The Basics of MachineLearning and tensorflow 🤖 
@@ -32,7 +30,6 @@ The Basics of MachineLearning and tensorflow 🤖
 <img src="https://user-images.githubusercontent.com/38183241/43683740-d2b21c82-98cc-11e8-9aee-897e91004cf5.jpg"/></a>
 
 
----
 
 ## 4. [여름방학 웹스터디 자료](https://github.com/gusdnd852/TIL/tree/master/WebStudy) 
 The Basics of Web, abput HTML, CSS, JavaScript 🌐
