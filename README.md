@@ -5,6 +5,7 @@
 
 이름을 클릭하면 해당 소스코드 파일로 이동하고, 이미지를 클릭하면 해당 학습자료의 링크로 이동합니다.
 
+![image](https://user-images.githubusercontent.com/38183241/43684044-8d47a9a8-98d3-11e8-95e4-dd5dba46a959.png)
 
 ## 1. [알고리즘 학습](https://github.com/gusdnd852/TIL/tree/master/Algorithm) 
 Learning for Improving Algorithm Technique 💪
