@@ -5,15 +5,15 @@
 
 ### 1Day 1Commit 🔥
 
-[백준 문제풀이](https://github.com/gusdnd852/Algorithm/tree/master/src/beakjoon)
+[백준 문제풀이](https://github.com/gusdnd852/Today-I-Learned/tree/master/Algorithm/src/beakjoon)
 
 ----
 
 ### 알고리즘 공부하기 
 
-1. [정렬 알고리즘](https://github.com/gusdnd852/Algorithm/tree/master/src/algorithm/sort)
+1. [정렬 알고리즘](https://github.com/gusdnd852//Today-I-Learned/tree/master/Algorithm/src/algorithm/sort)
 
-2. [선택 알고리즘](http://www.naver.com)
+2. [선택 알고리즘](https://github.com/gusdnd852//Today-I-Learned/tree/master/Algorithm/src/algorithm/sort)
 
 ----
 
