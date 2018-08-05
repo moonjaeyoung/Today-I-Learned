@@ -19,7 +19,7 @@
 
 ### 자료구조 직접구현
 
-1. [스택](https://github.com/gusdnd852/Algorithm/tree/master/src/data_structure/stack)
-2. [큐](https://github.com/gusdnd852/JavaAlgorithm/tree/master/src/data_structure/queue)
-3. [덱](https://github.com/gusdnd852/JavaAlgorithm/tree/master/src/data_structure/dequeue)
+1. [스택](https://github.com/gusdnd852/Today-I-Learned/tree/master/Algorithm/src/data_structure/stack)
+2. [큐](https://github.com/gusdnd852/Today-I-Learned/tree/master/Algorithm/src/data_structure/queue)
+3. [덱](https://github.com/gusdnd852/Today-I-Learned/tree/master/Algorithm/src/data_structure/dequeue)
 
