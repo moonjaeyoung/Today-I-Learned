@@ -19,23 +19,20 @@ Learning for Improving Algorithm Technique 💪
 Python Grammar Practice 🌌
 
 <a href="https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww">
-<img src="https://user-images.githubusercontent.com/38183241/43683633-ece630a4-98ca-11e8-86c9-4394e3497ca8.jpg"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/43684134-6f2f5888-98d5-11e8-94d6-088a58a71595.png"/></a>
 
-![image](https://user-images.githubusercontent.com/38183241/43684044-8d47a9a8-98d3-11e8-95e4-dd5dba46a959.png)
 
 
 ## 3. [머신러닝 기초와 텐서플로우](https://github.com/gusdnd852/TIL/tree/master/MachineLearning)
 The Basics of MachineLearning and tensorflow 🤖 
 
 <a href="https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm">
-<img src="https://user-images.githubusercontent.com/38183241/43683740-d2b21c82-98cc-11e8-9aee-897e91004cf5.jpg"/></a>
-
-![image](https://user-images.githubusercontent.com/38183241/43684044-8d47a9a8-98d3-11e8-95e4-dd5dba46a959.png)
+<img src="https://user-images.githubusercontent.com/38183241/43684145-83696050-98d5-11e8-8473-9b282f5a6b2c.png"/></a>
 
 
 ## 4. [여름방학 웹스터디 자료](https://github.com/gusdnd852/TIL/tree/master/WebStudy) 
 The Basics of Web, abput HTML, CSS, JavaScript 🌐
 
 <a href="https://user-images.githubusercontent.com/38183241/43683747-11002b0a-98cd-11e8-9f94-7ff719969164.jpg">
-<img src="https://user-images.githubusercontent.com/38183241/43683747-11002b0a-98cd-11e8-9f94-7ff719969164.jpg"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/43684147-934d95ea-98d5-11e8-8c98-4b9b979e3ea0.png"/></a>
 
