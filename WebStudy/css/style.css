@@ -1,20 +1,20 @@
-header{
-    border-bottom:1px solid gray;
-    padding:20px;
+header {
+    border-bottom: black 1px solid;
+    padding: 20px;
 }
+
 nav {
-    border-right:1px solid gray;
-    width:200px;
-    height:600px;
-    float:left;
+    border-right: black 1px solid;
+    width: 200px;
+    height: 600px;
+    float: left; /*옆으로 올라가게*/
 }
-nav ol{
-    list-style:none;
+
+nav ol { /*이러한 선택자를 쓰면 nav 안에 있는 ol 태그를 가르키게 된다.*/
+    list-style: none;
 }
-article{
-    float:left;
-    padding:20px;
-}
-h2{
-    font-size:50px;
+
+article {
+    float: left; /*적절한 여백*/
+    padding: 20px;
 }

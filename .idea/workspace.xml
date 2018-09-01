@@ -2,103 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70b57662-819e-44de-a769-c575224f48cb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Algorithm/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/algorithm/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/algorithm/sort/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/algorithm/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_1000.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_1001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_1002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_1008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_10718.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_10828.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_10845.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_10866.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_1152.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_1237.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_1427.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_2309.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_2438.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_2557.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_2750.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_2902.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_4673.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_7287.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_8393.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/beakjoon/_9498.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/data_structure/dequeue/Dequeue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/data_structure/queue/Queue_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/data_structure/queue/Queue_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/data_structure/stack/Stack_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm/src/data_structure/stack/Stack_List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/FP/FP_Base.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/FP/Lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/FP/Stream.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/OOP/character_stat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/OOP/executor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/변수와 입출력/IO.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/변수와 입출력/String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/변수와 입출력/Type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/변수와 입출력/Variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/연산자와 제어문/Comprehension.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/연산자와 제어문/For.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/연산자와 제어문/If.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/연산자와 제어문/Operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/연산자와 제어문/While.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/컨테이너/Container.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/컨테이너/List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/컨테이너/Set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/컨테이너/Tuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/함수와 모듈/Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PythonPractice/함수와 모듈/Moudule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/.idea/WebStudy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/html/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/html/js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/html/operator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/html/practice/css_html1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/html/practice/css_html2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/html/practice/css_html3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/html/varval.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/java_script/js.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebStudy/java_script/js_html1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebStudy/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebStudy/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebStudy/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concept/01.cost_function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concept/02.minimize_cost.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concept/03.multi_variable_linear_regresstion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concept/04.logistic_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concept/05.softmax_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/concept/05.softmax_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/WebStudy/php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/impliment/linear_regression/executor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/impliment/linear_regression/linear_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/impliment/logistic_regression/data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/impliment/logistic_regression/executor.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/impliment/logistic_regression/logistic_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/impliment/tensor_flow/tensor_flow_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/impliment/tensor_flow/tensor_flow_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regrassion/linear/00.graph.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regrassion/linear/01.gradient_descent_first.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regrassion/linear/02.gradient_descent_placeholder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regrassion/linear/03.gradient_descent_impl.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regrassion/linear/04.multi_variable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regrassion/linear/05.multi_variable_matrix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regrassion/linear/06.load_file_numpy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regrassion/linear/07.load_file_queuerunners.pyi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regrassion/linear/data-01-test-score.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/regrassion/logistic/logistic_regression.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/인공지능.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TIL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PythonPractice/변수와 입출력/IO.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonPractice/변수와 입출력/IO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/WebStudy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WebStudy/WebStudy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebStudy/html/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/html/js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/html/operator.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/html/practice/css_html1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/html/practice/css_html2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/html/practice/css_html3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/html/varval.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/java_script/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/java_script/js_html1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebStudy/php" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/WebStudy/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,71 +29,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TIL$IO.coverage" NAME="IO Coverage Results" MODIFIED="1534712969117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonPractice/변수와 입출력" />
+    <SUITE FILE_PATH="coverage/TIL$logistic_regression.coverage" NAME="logistic_regression Coverage Results" MODIFIED="1533824347559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/practice/regrassion/logistic" />
+    <SUITE FILE_PATH="coverage/TIL$executor__1_.coverage" NAME="executor (1) Coverage Results" MODIFIED="1534739182731" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/impliment/linear_regression" />
+    <SUITE FILE_PATH="coverage/TIL$executor.coverage" NAME="executor Coverage Results" MODIFIED="1534739160515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/impliment/logistic_regression" />
     <SUITE FILE_PATH="coverage/TIL2$executor.coverage" NAME="executor Coverage Results" MODIFIED="1533451560972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/impliment/logistic_regression" />
   </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/WebStudy">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="_1002.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_1002.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_1152.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_1152.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_1237.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_1237.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebStudy/css/style.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="_1427.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_1427.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_2309.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_2309.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_2750.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_2750.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/README.md">
+        <entry file="file://$PROJECT_DIR$/WebStudy/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor />
@@ -180,28 +59,147 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Queue_Array.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/data_structure/queue/Queue_Array.java">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebStudy/html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+            <state relative-caret-position="112">
+              <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_1000.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_1000.java">
+      <file leaf-file-name="page_javascript.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebStudy/html/page_javascript.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="420">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_variable.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebStudy/html/page_variable.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebStudy/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_operation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebStudy/html/page_operation.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebStudy.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebStudy/WebStudy.iml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="button.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebStudy/javascript/button.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="server.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebStudy/php/server.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="PythonPractice.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PythonPractice/PythonPractice.iml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>실</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>상</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="WebStudy" />
+              <option name="path" value="$PROJECT_DIR$/WebStudy" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="WebStudy" />
+                <option name="path" value="$PROJECT_DIR$/WebStudy" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/WebStudy" value="4607050721858" />
+        <entry key="$PROJECT_DIR$/WebStudy/build.gradle" value="2043846522" />
+        <entry key="$PROJECT_DIR$/WebStudy/gradle/wrapper/gradle-wrapper.properties" value="1613248354" />
+        <entry key="$PROJECT_DIR$/WebStudy/settings.gradle" value="88213064" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/WebStudy" value="IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MachineLearning/practice/regrassion/logistic/logistic_regression.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/impliment/logistic_regression/executor.py" />
+        <option value="$PROJECT_DIR$/PythonPractice/변수와 입출력/IO.py" />
+        <option value="$PROJECT_DIR$/WebStudy/variable.html" />
+        <option value="$PROJECT_DIR$/WebStudy/javascript.html" />
+        <option value="$PROJECT_DIR$/WebStudy/operation.html" />
+        <option value="$PROJECT_DIR$/WebStudy/stlye.css" />
+        <option value="$PROJECT_DIR$/WebStudy/index.html" />
+        <option value="$PROJECT_DIR$/WebStudy/page_variable.html" />
+        <option value="$PROJECT_DIR$/WebStudy/page_javascript.html" />
+        <option value="$PROJECT_DIR$/WebStudy/page_operation.html" />
+        <option value="$PROJECT_DIR$/WebStudy/html/page_javascript.html" />
+        <option value="$PROJECT_DIR$/WebStudy/html/page_operation.html" />
+        <option value="$PROJECT_DIR$/WebStudy/javascript/button.js" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -221,56 +219,82 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="801" />
-    <option name="y" value="89" />
-    <option name="width" value="974" />
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="893" />
+    <option name="width" value="1034" />
     <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="TIL2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL2" type="462c0819:PsiDirectoryNode" />
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="WebStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="WebStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javascript" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="WebStudy" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="php" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebStudy" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\WebStudy\css" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\WebStudy\html" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL2\Algorithm\src" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL2\MachineLearning" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\GitHub\TIL2" />
       <recent name="C:\Users\Administrator\Desktop\GitHub\TIL2\Algorithm" />
       <recent name="C:\Users\Administrator\Desktop\GitHub\TIL2\PythonPractice" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL2\Algorithm\src" />
-      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL2\MachineLearning" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -285,7 +309,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application._1237">
+  <component name="RunManager" selected="Python.executor (1)">
     <configuration name="_1237" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="beakjoon._1237" />
       <module name="Algorithm" />
@@ -297,27 +321,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="_2309" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="beakjoon._2309" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="beakjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="go build MachineLearning/" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="MachineLearning" />
-      <working_directory value="$PROJECT_DIR$" />
-      <go_parameters value="-i" />
-      <kind value="DIRECTORY" />
-      <filePath value="$PROJECT_DIR$" />
-      <directory value="$PROJECT_DIR$/MachineLearning" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -335,6 +340,44 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="IO" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPractice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonPractice/변수와 입출력" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonPractice/변수와 입출력/IO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="executor (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/impliment/linear_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/impliment/linear_regression/executor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="executor" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -349,6 +392,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/impliment/logistic_regression/executor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="logistic_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/practice/regrassion/logistic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/practice/regrassion/logistic/logistic_regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -377,17 +439,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Go Build.go build MachineLearning/" />
       <item itemvalue="Python.executor" />
       <item itemvalue="Application._1237" />
-      <item itemvalue="Application._2309" />
+      <item itemvalue="Python.logistic_regression" />
+      <item itemvalue="Python.IO" />
+      <item itemvalue="Python.executor (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application._1237" />
-        <item itemvalue="Application._2309" />
+        <item itemvalue="Python.executor (1)" />
         <item itemvalue="Python.executor" />
-        <item itemvalue="Go Build.go build MachineLearning/" />
+        <item itemvalue="Python.IO" />
+        <item itemvalue="Python.logistic_regression" />
+        <item itemvalue="Application._1237" />
       </list>
     </recent_temporary>
   </component>
@@ -402,52 +466,74 @@
       <option name="presentableId" value="Default" />
       <updated>1533451361170</updated>
       <workItem from="1533451362489" duration="543000" />
+      <workItem from="1533462109522" duration="593000" />
+      <workItem from="1533466821357" duration="833000" />
+      <workItem from="1533528627257" duration="1231000" />
+      <workItem from="1533824202924" duration="2226000" />
+      <workItem from="1533831986943" duration="589000" />
+      <workItem from="1533845359088" duration="595000" />
+      <workItem from="1533909221620" duration="102000" />
+      <workItem from="1533913244230" duration="589000" />
+      <workItem from="1533921982976" duration="596000" />
+      <workItem from="1533924630621" duration="594000" />
+      <workItem from="1533931193137" duration="592000" />
+      <workItem from="1533963473291" duration="267000" />
+      <workItem from="1533963915374" duration="591000" />
+      <workItem from="1533965116653" duration="592000" />
+      <workItem from="1533965864083" duration="29000" />
+      <workItem from="1534712747613" duration="1940000" />
+      <workItem from="1535679214400" duration="5587000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="543000" />
+    <option name="totallyTimeSpent" value="18089000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="893" y="0" width="1034" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="right" id="Cargo" />
-      <window_info id="simpleUML" />
-      <window_info anchor="bottom" id="Messages" weight="0.32922733" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Cargo" order="11" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.32922733" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.32918552" />
       <window_info anchor="right" id="Database" order="8" />
-      <window_info id="Learn" order="7" />
-      <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39977604" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Gradle" order="7" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info id="simpleUML" order="8" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32918552" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Build" order="0" visible="true" weight="0.32965517" />
-      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.13661814" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19404517" />
+      <window_info id="Web" side_tool="true" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="right" id="SciView" order="11" />
+      <window_info anchor="right" id="Gradle" order="7" />
       <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="right" id="sbt" order="4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Spring" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -457,12 +543,65 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MachineLearning/impliment/logistic_regression/executor.py">
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_1152.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="112">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_1237.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_1427.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_2309.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_2750.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/data_structure/queue/Queue_Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algorithm/src/beakjoon/_1000.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/css/style.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/PythonPractice/함수와 모듈/Moudule.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -534,7 +673,167 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/practice/regrassion/linear/00.graph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/practice/regrassion/logistic/logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1092">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/impliment/logistic_regression/logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonPractice/변수와 입출력/String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonPractice/변수와 입출력/Variable.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonPractice/변수와 입출력/Type.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonPractice/변수와 입출력/IO.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/impliment/logistic_regression/executor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/impliment/linear_regression/executor.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/impliment/linear_regression/linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/concept/03.multi_variable_linear_regresstion.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/concept/02.minimize_cost.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/concept/05.softmax_regression.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebStudy/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/java_script/js.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/java_script/js_html1.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/concept/04.logistic_regression.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/html/page_variable.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/html/page_javascript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/html/page_operation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonPractice/PythonPractice.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/WebStudy.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/javascript/button.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebStudy/php/server.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>

@@ -1,9 +1,5 @@
-print('hello world')
-# 출력
 
-var = input()
-# 입력
-print(var)
+a = 9
 
-print(input())
-# 입력값을 출력
+for i in range(30):
+    print(i)
