@@ -6,6 +6,9 @@ car1.getInfo1 = function () {
     document.write("생상: ", this.color, "<br>");
     document.write("가격: ", this.price, "<br>");
 };
+car1.lambda = () => {
+    document.write("람다식도 가능해용~")
+};
 
 car1.getInfo1();
 /* 이렇게도 할수 있고*/

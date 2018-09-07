@@ -21,15 +21,17 @@ function f() {
     }
     //switch문
 
-    while (a <= 100) {
+    let index = 0;
+    while (index < 20) {
         document.write("반복~", "<br>");
-        a++
+        index++
     }
+    //while 문
 
     for (let i = 0; i < 10; i++) {
         document.write("for문");
     }
-
+    //for 문
 
 }
 

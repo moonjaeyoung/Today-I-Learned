@@ -20,7 +20,12 @@ document.write(Math.random() + "<br>", "<br>");
 
 
 //3. 문자 객체
-let str = String("string");
+let str = "string";
 
 document.write(str.charAt(1) + "<br>"); // 자바와 동일
 document.write(str.indexOf("t") + "<br>"); // 해당 글자가 몇번째인지 반환
+document.write(str.indexOf("Z") + "<br>" , "<br>"); // 없으면 -1 반환
+
+//4. 배열 객체
+let arr = ["a" , "b" , "c" , "d"];
+document.write(arr[1]);
