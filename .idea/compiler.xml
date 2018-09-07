@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="about_js" />
+        <module name="javaweb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="about_js" target="1.8" />
+      <module name="javaweb" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

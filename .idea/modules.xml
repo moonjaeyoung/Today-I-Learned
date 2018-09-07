@@ -7,7 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/PythonPractice/PythonPractice.iml" filepath="$PROJECT_DIR$/PythonPractice/PythonPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TIL2.iml" filepath="$PROJECT_DIR$/.idea/TIL2.iml" />
       <module fileurl="file://$PROJECT_DIR$/WebStudy/WebStudy.iml" filepath="$PROJECT_DIR$/WebStudy/WebStudy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebStudy/about_js.iml" filepath="$PROJECT_DIR$/WebStudy/about_js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaweb/javaweb.iml" filepath="$PROJECT_DIR$/javaweb/javaweb.iml" />
     </modules>
   </component>
 </project>
