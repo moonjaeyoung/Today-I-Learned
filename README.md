@@ -40,4 +40,4 @@ The Basics of Web, abput HTML, CSS, JavaScript 🌐
 Learning to improve JavaScript and JQuery skills 😆
 
 <a href="https://www.youtube.com/watch?v=jR2zWjCT2XI&list=PLG7te9eYUi7vnribGociCy0Z-yD9Q8hwT&index=1">
-<img src="https://user-images.githubusercontent.com/38183241/45194626-c1b89600-b28e-11e8-8df8-76bc60afae21.jpg"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/45194658-e876cc80-b28e-11e8-91f4-357e3b0753d8.jpg"/></a>
