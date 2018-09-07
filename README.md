@@ -36,3 +36,8 @@ The Basics of Web, abput HTML, CSS, JavaScript 🌐
 <a href="https://user-images.githubusercontent.com/38183241/43683747-11002b0a-98cd-11e8-9f94-7ff719969164.jpg">
 <img src="https://user-images.githubusercontent.com/38183241/43684147-934d95ea-98d5-11e8-8c98-4b9b979e3ea0.png"/></a>
 
+## 5. [자바스크립트 & 제이쿼리 학습](https://github.com/gusdnd852/Today-I-Learned/tree/master/jqeury)
+Learning to improve JavaScript and JQuery skills 😆
+
+<a href="https://www.youtube.com/watch?v=jR2zWjCT2XI&list=PLG7te9eYUi7vnribGociCy0Z-yD9Q8hwT&index=1">
+<img src="https://user-images.githubusercontent.com/38183241/45194658-e876cc80-b28e-11e8-91f4-357e3b0753d8.jpg"/></a>
