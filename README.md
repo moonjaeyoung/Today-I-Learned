@@ -46,5 +46,5 @@ Learning to improve JavaScript and JQuery skills 😆
 Web Programming with Java 🌐
 
 <a href="https://www.youtube.com/watch?v=Aw-lOlR0I28&list=PLOJ3X9PwqLzvyIx3mwuf-muEd5TUI-yph">
-<img src="https://user-images.githubusercontent.com/38183241/45251576-759b4d80-b383-11e8-8eca-664871f0eeec.jpg"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/45251582-8cda3b00-b383-11e8-9e0d-1d92e3ba0401.jpg"/></a>
 
