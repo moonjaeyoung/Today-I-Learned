@@ -31,7 +31,7 @@ The Basics of MachineLearning and tensorflow 🤖
 
 
 ## 4. [여름방학 웹스터디 자료](https://github.com/gusdnd852/TIL/tree/master/WebStudy) 
-The Basics of Web, abput HTML, CSS, JavaScript 🌐
+The Basics of Web, abput HTML, CSS 🌐
 
 <a href="https://user-images.githubusercontent.com/38183241/43683747-11002b0a-98cd-11e8-9f94-7ff719969164.jpg">
 <img src="https://user-images.githubusercontent.com/38183241/43684147-934d95ea-98d5-11e8-8c98-4b9b979e3ea0.png"/></a>
@@ -41,3 +41,10 @@ Learning to improve JavaScript and JQuery skills 😆
 
 <a href="https://www.youtube.com/watch?v=jR2zWjCT2XI&list=PLG7te9eYUi7vnribGociCy0Z-yD9Q8hwT&index=1">
 <img src="https://user-images.githubusercontent.com/38183241/45194658-e876cc80-b28e-11e8-91f4-357e3b0753d8.jpg"/></a>
+
+## 6. [자바 웹 프로그래밍 (JSP/Servlet with Tomcat)]()
+Web Programming with Java 🌐
+
+<a href="https://www.youtube.com/watch?v=Aw-lOlR0I28&list=PLOJ3X9PwqLzvyIx3mwuf-muEd5TUI-yph">
+<img src="https://user-images.githubusercontent.com/38183241/45251582-8cda3b00-b383-11e8-9e0d-1d92e3ba0401.jpg"/></a>
+
