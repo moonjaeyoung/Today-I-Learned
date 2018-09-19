@@ -22,4 +22,5 @@
 1. [스택](https://github.com/gusdnd852/Today-I-Learned/tree/master/Algorithm/src/data_structure/stack)
 2. [큐](https://github.com/gusdnd852/Today-I-Learned/tree/master/Algorithm/src/data_structure/queue)
 3. [덱](https://github.com/gusdnd852/Today-I-Learned/tree/master/Algorithm/src/data_structure/dequeue)
+4. [해시테이블](https://github.com/gusdnd852/Today-I-Learned/tree/master/Algorithm/src/data_structure/hashtable)
 
