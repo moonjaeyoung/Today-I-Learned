@@ -1,5 +1,6 @@
 package beakjoon;
 
+import java.util.HashMap;
 import java.util.Scanner;
 
 public class _1000 {
@@ -8,5 +9,6 @@ public class _1000 {
         int a = sc.nextInt();
         int b = sc.nextInt();
         System.out.println(a + b);
+
     }
 }

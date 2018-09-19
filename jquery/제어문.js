@@ -32,7 +32,6 @@ function f() {
         document.write("for문");
     }
     //for 문
-
 }
 
 f();
