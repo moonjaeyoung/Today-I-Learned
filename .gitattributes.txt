@@ -1,5 +1,0 @@
-*.class         binary
-*.java          binary
-*.html         binary
-*.css	   binary
-*.javascript  binary        

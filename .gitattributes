@@ -1,4 +1,5 @@
-*.java           
-*.html
-*.css
-*.javascript           
+*.class         binary
+*.java          binary
+*.html         binary
+*.css	   binary
+*.javascript  binary        
