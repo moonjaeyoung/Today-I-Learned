@@ -5,9 +5,9 @@
 
 <br>
 
-#### Name Clicked : Go to the corresponding source code file, <br>
+* Name Clicked : Go to the corresponding source code file, <br>
 
-#### Picture Clicked : Go to the link of the Learning materials.
+* Picture Clicked : Go to the link of the Learning materials.
 
 <br>
 
