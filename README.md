@@ -3,7 +3,7 @@
 
 ### Repository for organizing what I learned today, except for projects.
 
-Click on the name to go to the corresponding source code file.
+Click on the name to go to the corresponding source code file,
 Click on the picture to go to the link of the Learning materials.
 
 ![image](https://user-images.githubusercontent.com/38183241/43684044-8d47a9a8-98d3-11e8-95e4-dd5dba46a959.png)
