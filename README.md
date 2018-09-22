@@ -4,11 +4,11 @@
 ### Repository for organizing what I learned today, except for projects.
 
 <br>
+
+#### Name Clicked : Go to the corresponding source code file, <br>
 <br>
 
-Click on the name to go to the corresponding source code file, <br>
-<br>
-Click on the picture to go to the link of the Learning materials.
+#### Picture Clicked : Go to the link of the Learning materials.
 
 <br>
 
