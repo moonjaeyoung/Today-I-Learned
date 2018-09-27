@@ -24,7 +24,7 @@ Learning for Improving Algorithm Technique 💪
 Python Basic Grammar Practice 🌌
 
 <a href="https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww">
-<img src="https://user-images.githubusercontent.com/38183241/43684134-6f2f5888-98d5-11e8-94d6-088a58a71595.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46157530-e369d380-c2b6-11e8-9a5f-f4c8d9951155.png"/></a>
 
 <br>
 
@@ -32,7 +32,7 @@ Python Basic Grammar Practice 🌌
 The Basics of MachineLearning and tensorflow 🤖 
 
 <a href="https://www.youtube.com/watch?v=BS6O0zOGX4E&list=PLlMkM4tgfjnLSOjrEJN31gZATbcj_MpUm">
-<img src="https://user-images.githubusercontent.com/38183241/43684145-83696050-98d5-11e8-8473-9b282f5a6b2c.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46157492-c9c88c00-c2b6-11e8-8a3a-dc694a1d395f.png"/></a>
 
 <br>
 <br>
@@ -42,7 +42,7 @@ The Basics of MachineLearning and tensorflow 🤖
 The Basics of Web, abput HTML, CSS 🌐
 
 <a href="https://user-images.githubusercontent.com/38183241/43683747-11002b0a-98cd-11e8-9f94-7ff719969164.jpg">
-<img src="https://user-images.githubusercontent.com/38183241/43684147-934d95ea-98d5-11e8-8c98-4b9b979e3ea0.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46157441-ad2c5400-c2b6-11e8-8a0a-354ed425392d.png"/></a>
 
 <br>
 <br>
