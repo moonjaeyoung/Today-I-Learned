@@ -57,7 +57,7 @@ The Basics of Web, abput HTML, CSS 🌐
 Learning to improve JavaScript and JQuery skills 😆
 
 <a href="https://www.youtube.com/watch?v=jR2zWjCT2XI&list=PLG7te9eYUi7vnribGociCy0Z-yD9Q8hwT&index=1">
-<img src="https://user-images.githubusercontent.com/38183241/45194658-e876cc80-b28e-11e8-91f4-357e3b0753d8.jpg"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46162059-309f7280-c2c2-11e8-8f18-c5605f0e3294.png"/></a>
 
 <br>
 <br>
@@ -67,7 +67,7 @@ Learning to improve JavaScript and JQuery skills 😆
 Building web applications with jsp and servlets 🌐
 
 <a href="https://www.youtube.com/watch?v=APJAJeePl4g&list=PLYBmkgNU_x7Zj0nCzt5D0qV33C_rU1NK2">
-<img src="https://user-images.githubusercontent.com/38183241/46156904-87eb1600-c2b5-11e8-86c8-a0f208d55e06.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46162022-14033a80-c2c2-11e8-98b7-4e24ffd51d2e.png"/></a>
 
 <br>
 <br>
@@ -77,4 +77,4 @@ Building web applications with jsp and servlets 🌐
 Learn about reactive programming paradigm techniques 👾
 
 <a href="http://reactivex.io/">
-<img src="https://user-images.githubusercontent.com/38183241/46157174-20819600-c2b6-11e8-93d2-2148a31b4974.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46162086-4319ac00-c2c2-11e8-9a7d-4b34a2ffde91.png"/></a>
