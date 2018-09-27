@@ -31,14 +31,12 @@ public class Rx02 {
         // 프레임 세팅
     }
 
-
     /**
      * @see java.util.Observable
      * @see java.util.Observer
      * 위의 코드를 참고하여 새로 만들었다.
      */
     public static class ObservablePanel extends JPanel {
-
 
         JButton button = new JButton();
         int count = 0;

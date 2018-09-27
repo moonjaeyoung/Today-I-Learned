@@ -5,5 +5,7 @@
  */
 public class Rx03 {
     public static void main(String[] args) {
+        //본격적으로 Rx자바에 대해서 알아보자.
+
     }
 }
