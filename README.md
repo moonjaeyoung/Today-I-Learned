@@ -17,7 +17,8 @@ Learning for Improving Algorithm Technique 💪
 <a href="https://www.acmicpc.net">
 <img src="https://user-images.githubusercontent.com/38183241/43683763-736ff3a6-98cd-11e8-8114-20636ac0f3a2.jpg"/></a>
 
-
+<br>
+<br>
 <br>
 
 ## 2. [Python Basic Grammar Theorem](https://github.com/gusdnd852/TIL/tree/master/PythonPractice) 
@@ -26,6 +27,8 @@ Python Basic Grammar Practice 🌌
 <a href="https://www.youtube.com/watch?v=c2mpe9Xcp0I&list=PLGPF8gvWLYyrkF85itdBHaOLSVbtdzBww">
 <img src="https://user-images.githubusercontent.com/38183241/46157530-e369d380-c2b6-11e8-9a5f-f4c8d9951155.png"/></a>
 
+<br>
+<br>
 <br>
 
 ## 3. [Machine Learning Fundamentals and Tensor Flow](https://github.com/gusdnd852/TIL/tree/master/MachineLearning)
@@ -36,6 +39,7 @@ The Basics of MachineLearning and tensorflow 🤖
 
 <br>
 <br>
+<br>
 
 
 ## 4. [Summer Vacation Web Study Materials](https://github.com/gusdnd852/TIL/tree/master/WebStudy) 
@@ -44,6 +48,7 @@ The Basics of Web, abput HTML, CSS 🌐
 <a href="https://user-images.githubusercontent.com/38183241/43683747-11002b0a-98cd-11e8-9f94-7ff719969164.jpg">
 <img src="https://user-images.githubusercontent.com/38183241/46157441-ad2c5400-c2b6-11e8-8a0a-354ed425392d.png"/></a>
 
+<br>
 <br>
 <br>
 
