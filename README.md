@@ -63,7 +63,7 @@ Learning to improve JavaScript and JQuery skills 😆
 <br>
 <br>
 
-## 6. [JSP & Servlet with Tomcat](https://github.com/gusdnd852/Today-I-Learned/tree/master/javaweb)
+## 6. [JSP & Servlet with Tomcat Server](https://github.com/gusdnd852/Today-I-Learned/tree/master/javaweb)
 Building web applications with jsp and servlets 🌐
 
 <a href="https://www.youtube.com/watch?v=APJAJeePl4g&list=PLYBmkgNU_x7Zj0nCzt5D0qV33C_rU1NK2">
