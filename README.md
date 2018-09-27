@@ -77,4 +77,4 @@ Building web applications with jsp and servlets 🌐
 Learn about reactive programming paradigm techniques 👾
 
 <a href="http://reactivex.io/">
-<img src="https://user-images.githubusercontent.com/38183241/46162086-4319ac00-c2c2-11e8-9a7d-4b34a2ffde91.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46162268-b58a8c00-c2c2-11e8-9c76-690218208430.png"/></a>
