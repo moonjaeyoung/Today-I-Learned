@@ -2,10 +2,10 @@
 <module external.linked.project.id="javaweb" external.linked.project.path="$MODULE_DIR$/../../javaweb" external.root.project.path="$MODULE_DIR$/../../javaweb" external.system.id="GRADLE" external.system.module.group="javaweb" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../javaweb">
-      <excludeFolder url="file://$MODULE_DIR$/../../javaweb/.gradle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../javaweb/build" />
-      <excludeFolder url="file://$MODULE_DIR$/../../javaweb/out" />
+    <content url="file://$MODULE_DIR$/../../JavaWeb">
+      <excludeFolder url="file://$MODULE_DIR$/../../JavaWeb/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../JavaWeb/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../JavaWeb/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
