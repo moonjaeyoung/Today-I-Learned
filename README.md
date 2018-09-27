@@ -53,7 +53,7 @@ The Basics of Web, abput HTML, CSS 🌐
 <br>
 
 
-## 5. [JavaScript & J-Query learning](https://github.com/gusdnd852/Today-I-Learned/tree/master/jquery)
+## 5. [JavaScript & J-Query learning](https://github.com/gusdnd852/Today-I-Learned/tree/master/JQuery)
 Learning to improve JavaScript and JQuery skills 😆
 
 <a href="https://www.youtube.com/watch?v=jR2zWjCT2XI&list=PLG7te9eYUi7vnribGociCy0Z-yD9Q8hwT&index=1">
@@ -63,7 +63,7 @@ Learning to improve JavaScript and JQuery skills 😆
 <br>
 <br>
 
-## 6. [JSP & Servlet with Tomcat Server](https://github.com/gusdnd852/Today-I-Learned/tree/master/javaweb)
+## 6. [JSP & Servlet with Tomcat Server](https://github.com/gusdnd852/Today-I-Learned/tree/master/JavaWeb)
 Building web applications with jsp and servlets 🌐
 
 <a href="https://www.youtube.com/watch?v=APJAJeePl4g&list=PLYBmkgNU_x7Zj0nCzt5D0qV33C_rU1NK2">
@@ -73,7 +73,7 @@ Building web applications with jsp and servlets 🌐
 <br>
 <br>
 
-## 7. [Concurrency Functional programming with  RxJava](https://github.com/gusdnd852/Today-I-Learned/tree/master/rx)
+## 7. [Concurrency Functional programming with  RxJava](https://github.com/gusdnd852/Today-I-Learned/tree/master/RX)
 Learn about reactive programming paradigm techniques 👾
 
 <a href="http://reactivex.io/">
