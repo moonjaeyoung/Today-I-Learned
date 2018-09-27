@@ -69,7 +69,7 @@ Building web applications with jsp and servlets 🌐
 <br>
 
 ## 7. [Concurrency Functional programming with  RxJava](https://github.com/gusdnd852/Today-I-Learned/tree/master/rx)
-Learning to improve JavaScript and JQuery skills 😆
+Learn about reactive programming paradigm techniques 👾
 
 <a href="http://reactivex.io/">
 <img src="https://user-images.githubusercontent.com/38183241/46157174-20819600-c2b6-11e8-93d2-2148a31b4974.png"/></a>
