@@ -7,37 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70b57662-819e-44de-a769-c575224f48cb" name="Default" comment="commit">
-      <change beforePath="$PROJECT_DIR$/javaweb/out/production/classes/com/demo/servlet/Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWeb/out/production/classes/com/demo/servlet/Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/MOCK_DATA.json" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery/MOCK_DATA.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/jquery_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery/jquery_example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/객체생성.js" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery/객체생성.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jquery/제어문.js" beforeDir="false" afterPath="$PROJECT_DIR$/JQuery/제어문.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/.gradle/4.8/fileChanges/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/RX/.gradle/4.8/fileChanges/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/RX/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/RX/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/.gradle/4.8/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/RX/.gradle/4.8/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/.gradle/4.8/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/RX/.gradle/4.8/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/RX/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RX/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/RX/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/.gradle/vcsWorkingDirs/gc.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RX/.gradle/vcsWorkingDirs/gc.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RX/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/RX/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/RX/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/RX/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/RX/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/out/production/classes/Rx01$Button$Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/RX/out/production/classes/Rx01$Button$Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/out/production/classes/Rx01$Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/RX/out/production/classes/Rx01$Button.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/out/production/classes/Rx01.class" beforeDir="false" afterPath="$PROJECT_DIR$/RX/out/production/classes/Rx01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/out/production/classes/Rx02$ObservablePanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/RX/out/production/classes/Rx02$ObservablePanel$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/out/production/classes/Rx02$ObservablePanel$Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/RX/out/production/classes/Rx02$ObservablePanel$Observer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/out/production/classes/Rx02$ObservablePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/RX/out/production/classes/Rx02$ObservablePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/out/production/classes/Rx02.class" beforeDir="false" afterPath="$PROJECT_DIR$/RX/out/production/classes/Rx02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/out/production/classes/Rx03.class" beforeDir="false" afterPath="$PROJECT_DIR$/RX/out/production/classes/Rx03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/RX/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/src/main/java/Rx01.java" beforeDir="false" afterPath="$PROJECT_DIR$/RX/src/main/java/Rx01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/src/main/java/Rx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/RX/src/main/java/Rx02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rx/src/main/java/Rx03.java" beforeDir="false" afterPath="$PROJECT_DIR$/RX/src/main/java/Rx03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/linier_regression/__init__.py" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/WebStudy/target/" />
     <ignored path="$PROJECT_DIR$/javaweb/target/" />
@@ -66,6 +37,10 @@
     <SUITE FILE_PATH="coverage/TIL$flower.coverage" NAME="flower Coverage Results" MODIFIED="1537236217589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/practice/perceptron" />
     <SUITE FILE_PATH="coverage/TIL$executor.coverage" NAME="executor Coverage Results" MODIFIED="1536577625694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/impliment/logistic_regression" />
     <SUITE FILE_PATH="coverage/TIL$perceptron_and.coverage" NAME="perceptron_and Coverage Results" MODIFIED="1537154406773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/practice/perceptron" />
+    <SUITE FILE_PATH="coverage/TIL$tensorflow_practice.coverage" NAME="tensorflow_practice Coverage Results" MODIFIED="1538071228416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
+    <SUITE FILE_PATH="coverage/TIL$tensorflow_3.coverage" NAME="tensorflow_3 Coverage Results" MODIFIED="1538143241450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
+    <SUITE FILE_PATH="coverage/TIL$tensorflow_2.coverage" NAME="tensorflow_2 Coverage Results" MODIFIED="1538071264261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
+    <SUITE FILE_PATH="coverage/TIL$linier_regression_1.coverage" NAME="linier_regression_1 Coverage Results" MODIFIED="1538142319584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -126,7 +101,7 @@
           <entry key="js" value="13" />
           <entry key="json" value="3" />
           <entry key="jsp" value="11" />
-          <entry key="py" value="24" />
+          <entry key="py" value="29" />
           <entry key="xhtml" value="1" />
           <entry key="xml" value="5" />
         </counts>
@@ -142,7 +117,7 @@
           <entry key="JSON" value="3" />
           <entry key="JSP" value="11" />
           <entry key="JavaScript" value="13" />
-          <entry key="Python" value="24" />
+          <entry key="Python" value="29" />
           <entry key="XHTML" value="1" />
           <entry key="XML" value="5" />
         </counts>
@@ -150,13 +125,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="csv" value="77" />
-          <entry key="dummy" value="14" />
+          <entry key="dummy" value="58" />
           <entry key="ft" value="6" />
           <entry key="gradle" value="3" />
           <entry key="html" value="276" />
           <entry key="java" value="9533" />
           <entry key="jsp" value="113" />
-          <entry key="py" value="1527" />
+          <entry key="py" value="2380" />
           <entry key="txt" value="6" />
           <entry key="xml" value="24" />
         </counts>
@@ -168,8 +143,8 @@
           <entry key="HTML" value="276" />
           <entry key="JAVA" value="9533" />
           <entry key="JSP" value="113" />
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="1527" />
+          <entry key="PLAIN_TEXT" value="64" />
+          <entry key="Python" value="2380" />
           <entry key="VTL" value="6" />
           <entry key="XML" value="24" />
         </counts>
@@ -188,11 +163,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RX/src/main/java/Rx03.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="224">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -247,42 +267,6 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.9/890fc9ef77d78ac270f322b024c0e660a8f57ea0/rxjava-2.1.9-sources.jar!/io/reactivex/disposables/Disposable.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JQuery/객체생성.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JQuery/효과.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algorithm/src/data_structure/hashtable/HTableImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3248">
-              <caret line="124" column="55" selection-start-line="124" selection-start-column="55" selection-end-line="124" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -975,11 +959,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Algorithm/src/beakjoon/_11720.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/concept/Weapon.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/concept/Gun.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/concept/Knife.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/concept/User.java" />
         <option value="$PROJECT_DIR$/MachineLearning/impliment/logistic_regression/logistic_regression.py" />
         <option value="$PROJECT_DIR$/jquery/비동기.js" />
         <option value="$PROJECT_DIR$/Algorithm/src/concept/Calander.java" />
@@ -1026,6 +1005,11 @@
         <option value="$PROJECT_DIR$/javaweb/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/rx/src/main/java/Rx02.java" />
         <option value="$PROJECT_DIR$/rx/src/main/java/Rx03.java" />
+        <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_practice.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_1.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py" />
       </list>
     </option>
   </component>
@@ -1110,6 +1094,23 @@
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="linier_regression" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1124,7 +1125,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538063081211" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538142802217" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -1163,23 +1164,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.11">
-    <configuration name="MainRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainRunner" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rx01" />
-      <module name="rx_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Python.tensorflow_3">
     <configuration name="Rx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rx01" />
       <module name="rx_main" />
@@ -1196,20 +1181,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="data_structure.hashtable.Test" />
-      <module name="Algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structure.hashtable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -1221,6 +1192,94 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="linier_regression_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/linier_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensorflow_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensorflow_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tensorflow_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/tensorflow" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\GitHub\TIL\MachineLearning\tensorflow\tensorflow_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -1435,18 +1494,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 9.0.11" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.MainRunner" />
-      <item itemvalue="Application.Rx01" />
       <item itemvalue="Application.Rx02" />
+      <item itemvalue="Python.tensorflow_practice" />
+      <item itemvalue="Python.tensorflow_2" />
+      <item itemvalue="Python.linier_regression_1" />
+      <item itemvalue="Python.tensorflow_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tensorflow_3" />
+        <item itemvalue="Python.linier_regression_1" />
+        <item itemvalue="Python.tensorflow_2" />
+        <item itemvalue="Python.tensorflow_practice" />
         <item itemvalue="Application.Rx02" />
-        <item itemvalue="Application.Rx01" />
-        <item itemvalue="Application.Rx01" />
-        <item itemvalue="Application.MainRunner" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -1491,7 +1551,7 @@
       <workItem from="1537458968028" duration="595000" />
       <workItem from="1537966450287" duration="5780000" />
       <workItem from="1538023727938" duration="1270000" />
-      <workItem from="1538061313945" duration="1847000" />
+      <workItem from="1538061313945" duration="9494000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1536392988382</created>
@@ -1504,12 +1564,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118883000" />
+    <option name="totallyTimeSpent" value="126530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8530559" visible="true" weight="0.13859275" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85196376" visible="true" weight="0.13859275" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1518,11 +1579,11 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Learn" order="7" />
       <window_info id="simpleUML" order="8" />
-      <window_info id="Web" order="9" sideWeight="0.14694408" side_tool="true" visible="true" weight="0.13859275" />
+      <window_info id="Web" order="9" sideWeight="0.14803626" side_tool="true" visible="true" weight="0.13859275" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.32918552" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.14174107" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.2611607" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39864865" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -1554,7 +1615,7 @@
       <window_info anchor="right" id="Cargo" order="11" />
       <window_info anchor="right" id="SciView" order="12" sideWeight="0.4992272" weight="0.75929976" />
       <window_info anchor="right" id="Bean Validation" order="13" />
-      <window_info anchor="right" x="0" y="0" width="193" height="847" id="Documentation" order="14" sideWeight="0.5007728" side_tool="true" visible="true" weight="0.06716418" />
+      <window_info anchor="right" x="0" y="0" width="193" height="847" id="Documentation" order="14" sideWeight="0.5007728" side_tool="true" weight="0.14498934" />
       <window_info anchor="right" id="PlantUML" order="15" />
       <window_info anchor="right" id="UML design tool window" order="16" />
     </layout>
@@ -1570,29 +1631,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/concept/SomeStructure.java" />
-    <entry file="file://$PROJECT_DIR$/Algorithm/src/concept/Main.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="106" column="35" selection-start-line="106" selection-start-column="35" selection-end-line="106" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="70" column="80" selection-start-line="70" selection-start-column="80" selection-end-line="70" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="110" column="38" selection-start-line="110" selection-start-column="38" selection-end-line="110" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="291">
@@ -1874,6 +1912,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -1940,7 +2018,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>javaweb_main|javaweb</last-edited>
+          <last-edited>rx_main|rx</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
