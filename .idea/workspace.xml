@@ -7,8 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70b57662-819e-44de-a769-c575224f48cb" name="Default" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/linier_regression/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/WebStudy/target/" />
     <ignored path="$PROJECT_DIR$/javaweb/target/" />
@@ -32,15 +36,19 @@
     </option>
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/TIL$Lambda.coverage" NAME="Lambda Coverage Results" MODIFIED="1536807547607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonPractice/FP" />
+    <SUITE FILE_PATH="coverage/TIL$optional_optimizer.coverage" NAME="optional_optimizer Coverage Results" MODIFIED="1538153585041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
     <SUITE FILE_PATH="coverage/TIL$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1536800625964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning" />
-    <SUITE FILE_PATH="coverage/TIL$flower.coverage" NAME="flower Coverage Results" MODIFIED="1537236217589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/practice/perceptron" />
+    <SUITE FILE_PATH="coverage/TIL$gradient_descent_optimizer.coverage" NAME="gradient_descent_optimizer Coverage Results" MODIFIED="1538151781901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
     <SUITE FILE_PATH="coverage/TIL$executor.coverage" NAME="executor Coverage Results" MODIFIED="1536577625694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/impliment/logistic_regression" />
     <SUITE FILE_PATH="coverage/TIL$perceptron_and.coverage" NAME="perceptron_and Coverage Results" MODIFIED="1537154406773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/practice/perceptron" />
+    <SUITE FILE_PATH="coverage/TIL$linier_regression_2.coverage" NAME="linier_regression_2 Coverage Results" MODIFIED="1538151296943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
+    <SUITE FILE_PATH="coverage/TIL$tensorflow_2.coverage" NAME="tensorflow_2 Coverage Results" MODIFIED="1538071264261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
+    <SUITE FILE_PATH="coverage/TIL$linier_regression_1.coverage" NAME="linier_regression_1 Coverage Results" MODIFIED="1538151282028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
+    <SUITE FILE_PATH="coverage/TIL$Lambda.coverage" NAME="Lambda Coverage Results" MODIFIED="1536807547607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonPractice/FP" />
+    <SUITE FILE_PATH="coverage/TIL$gradient_descent.coverage" NAME="gradient_descent Coverage Results" MODIFIED="1538151317250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
+    <SUITE FILE_PATH="coverage/TIL$flower.coverage" NAME="flower Coverage Results" MODIFIED="1537236217589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/practice/perceptron" />
     <SUITE FILE_PATH="coverage/TIL$tensorflow_practice.coverage" NAME="tensorflow_practice Coverage Results" MODIFIED="1538071228416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
     <SUITE FILE_PATH="coverage/TIL$tensorflow_3.coverage" NAME="tensorflow_3 Coverage Results" MODIFIED="1538143241450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
-    <SUITE FILE_PATH="coverage/TIL$tensorflow_2.coverage" NAME="tensorflow_2 Coverage Results" MODIFIED="1538071264261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
-    <SUITE FILE_PATH="coverage/TIL$linier_regression_1.coverage" NAME="linier_regression_1 Coverage Results" MODIFIED="1538142319584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -101,7 +109,9 @@
           <entry key="js" value="13" />
           <entry key="json" value="3" />
           <entry key="jsp" value="11" />
-          <entry key="py" value="29" />
+          <entry key="py" value="33" />
+          <entry key="sc" value="2" />
+          <entry key="scala" value="1" />
           <entry key="xhtml" value="1" />
           <entry key="xml" value="5" />
         </counts>
@@ -117,21 +127,25 @@
           <entry key="JSON" value="3" />
           <entry key="JSP" value="11" />
           <entry key="JavaScript" value="13" />
-          <entry key="Python" value="29" />
+          <entry key="Python" value="33" />
+          <entry key="Scala" value="3" />
           <entry key="XHTML" value="1" />
           <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+          <entry key="Scala Console" value="98" />
           <entry key="csv" value="77" />
-          <entry key="dummy" value="58" />
+          <entry key="dummy" value="112" />
           <entry key="ft" value="6" />
           <entry key="gradle" value="3" />
           <entry key="html" value="276" />
           <entry key="java" value="9533" />
           <entry key="jsp" value="113" />
-          <entry key="py" value="2380" />
+          <entry key="py" value="4068" />
+          <entry key="sc" value="283" />
+          <entry key="scala" value="4" />
           <entry key="txt" value="6" />
           <entry key="xml" value="24" />
         </counts>
@@ -143,8 +157,9 @@
           <entry key="HTML" value="276" />
           <entry key="JAVA" value="9533" />
           <entry key="JSP" value="113" />
-          <entry key="PLAIN_TEXT" value="64" />
-          <entry key="Python" value="2380" />
+          <entry key="PLAIN_TEXT" value="118" />
+          <entry key="Python" value="4068" />
+          <entry key="Scala" value="385" />
           <entry key="VTL" value="6" />
           <entry key="XML" value="24" />
         </counts>
@@ -164,19 +179,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RX/src/main/java/Rx03.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="168">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -187,20 +193,86 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="28">
-              <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="40" />
+            <state relative-caret-position="280">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="20" selection-end-line="24" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/gradient_descent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="896">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/optional_optimizer.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="334">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py">
+        <entry file="file://$PROJECT_DIR$/ScalaPractice/src/main.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="112">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ScalaPractice/src/libs.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://C:/Anaconda3/envs/untitled/Lib/site-packages/tensorflow/python/ops/gradients_impl.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="506" column="4" selection-start-line="506" selection-start-column="4" selection-end-line="506" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -208,64 +280,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+            <state relative-caret-position="334">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RX/src/main/java/Rx01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-              <folding>
-                <element signature="e#695#696#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RX/src/main/java/Rx02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-547">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/index.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/java/com/demo/servlet/Servlet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="14" column="53" selection-start-line="14" selection-start-column="53" selection-end-line="14" selection-end-column="53" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -959,15 +977,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MachineLearning/impliment/logistic_regression/logistic_regression.py" />
-        <option value="$PROJECT_DIR$/jquery/비동기.js" />
-        <option value="$PROJECT_DIR$/Algorithm/src/concept/Calander.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/cal/Date.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/cal/Calendar.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/concept/Prompt.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/cal/Prompt.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/cal/Main.java" />
-        <option value="$PROJECT_DIR$/Algorithm/src/cal/Cal.java" />
         <option value="$PROJECT_DIR$/MachineLearning/turtle.py" />
         <option value="$PROJECT_DIR$/PythonPractice/FP/Lambda.py" />
         <option value="$PROJECT_DIR$/Algorithm/src/concept/JAVA8.java" />
@@ -1006,10 +1015,19 @@
         <option value="$PROJECT_DIR$/rx/src/main/java/Rx02.java" />
         <option value="$PROJECT_DIR$/rx/src/main/java/Rx03.java" />
         <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_practice.py" />
-        <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py" />
         <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_1.py" />
-        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py" />
         <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/gradient_descent_algorithm.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/gradient_descent.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_2.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/optimizer.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/gradient_descent_optimizer.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/optional_optimizer.py" />
+        <option value="$PROJECT_DIR$/ScalaPractice/src/Main.scala" />
+        <option value="$PROJECT_DIR$/ScalaPractice/src/libs.sc" />
+        <option value="$PROJECT_DIR$/ScalaPractice/src/main.sc" />
       </list>
     </option>
   </component>
@@ -1097,19 +1115,13 @@
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="ScalaPractice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="linier_regression" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="tensorflow" type="462c0819:PsiDirectoryNode" />
+              <item name="ScalaPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1125,7 +1137,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538142802217" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538154778321" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -1164,17 +1176,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tensorflow_3">
+  <component name="RunManager" selected="Scala Console.Scala Console">
     <configuration name="Rx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rx01" />
-      <module name="rx_main" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Rx02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Rx02" />
       <module name="rx_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -1193,7 +1197,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="linier_regression_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gradient_descent" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1206,7 +1210,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/linier_regression/gradient_descent.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1215,7 +1219,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tensorflow_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="gradient_descent_optimizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1223,12 +1227,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/tensorflow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/linier_regression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\GitHub\TIL\MachineLearning\linier_regression\optional_optimizer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1237,7 +1241,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tensorflow_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="linier_regression_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1245,12 +1249,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/tensorflow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/linier_regression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1259,7 +1263,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tensorflow_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="optional_optimizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1267,12 +1271,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/tensorflow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/linier_regression" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\GitHub\TIL\MachineLearning\tensorflow\tensorflow_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/linier_regression/optional_optimizer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1280,6 +1284,15 @@
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
+    </configuration>
+    <configuration name="Scala Console" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true">
+      <module name="ScalaPractice" />
+      <setting name="vmparams4" value="-Djline.terminal=NONE" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="consoleArgs" value="-usejavacp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -1494,19 +1507,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 9.0.11" />
-      <item itemvalue="Application.Rx02" />
-      <item itemvalue="Python.tensorflow_practice" />
-      <item itemvalue="Python.tensorflow_2" />
-      <item itemvalue="Python.linier_regression_1" />
-      <item itemvalue="Python.tensorflow_3" />
+      <item itemvalue="Python.linier_regression_2" />
+      <item itemvalue="Python.gradient_descent" />
+      <item itemvalue="Python.gradient_descent_optimizer" />
+      <item itemvalue="Python.optional_optimizer" />
+      <item itemvalue="Scala Console.Scala Console" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tensorflow_3" />
-        <item itemvalue="Python.linier_regression_1" />
-        <item itemvalue="Python.tensorflow_2" />
-        <item itemvalue="Python.tensorflow_practice" />
-        <item itemvalue="Application.Rx02" />
+        <item itemvalue="Scala Console.Scala Console" />
+        <item itemvalue="Python.optional_optimizer" />
+        <item itemvalue="Python.gradient_descent_optimizer" />
+        <item itemvalue="Python.gradient_descent" />
+        <item itemvalue="Python.linier_regression_2" />
       </list>
     </recent_temporary>
   </component>
@@ -1551,7 +1564,7 @@
       <workItem from="1537458968028" duration="595000" />
       <workItem from="1537966450287" duration="5780000" />
       <workItem from="1538023727938" duration="1270000" />
-      <workItem from="1538061313945" duration="9494000" />
+      <workItem from="1538061313945" duration="17155000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1536392988382</created>
@@ -1564,26 +1577,26 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126530000" />
+    <option name="totallyTimeSpent" value="134191000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85196376" visible="true" weight="0.13859275" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.85196376" visible="true" weight="0.1977612" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
-      <window_info id="Learn" order="7" />
+      <window_info id="Learn" order="7" weight="0.32995737" />
       <window_info id="simpleUML" order="8" />
-      <window_info id="Web" order="9" sideWeight="0.14803626" side_tool="true" visible="true" weight="0.13859275" />
+      <window_info id="Web" order="9" sideWeight="0.14803626" side_tool="true" weight="0.13859275" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.32918552" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.2611607" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.38169643" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.39864865" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -1631,43 +1644,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="143" column="44" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Iterable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="71" selection-start-line="71" selection-end-line="76" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/concept/03.multi_variable_linear_regresstion.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/impliment/logistic_regression/logistic_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="26" column="53" selection-start-line="26" selection-start-column="53" selection-end-line="26" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/practice/perceptron/__init__.py" />
-    <entry file="file://$PROJECT_DIR$/MachineLearning/impliment/linear_regression/linear_regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/impliment/linear_regression/executor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/practice/perceptron/test.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4200">
@@ -1915,40 +1891,101 @@
     <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" selection-start-line="1" selection-end-line="3" selection-end-column="40" />
+        <state relative-caret-position="280">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="308">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/envs/untitled/Lib/site-packages/tensorflow/python/ops/gradients_impl.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="506" column="4" selection-start-line="506" selection-start-column="4" selection-end-line="506" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/gradient_descent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="896">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/linier_regression_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="20" selection-end-line="24" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/linier_regression/optional_optimizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaPractice/src/Main.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaPractice/src/libs.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ScalaPractice/src/main.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
