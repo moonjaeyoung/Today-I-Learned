@@ -53,28 +53,28 @@ The Basics of Web, abput HTML, CSS 🌐
 <br>
 
 
-## 5. [JavaScript & J-Query learning](https://github.com/gusdnd852/Today-I-Learned/tree/master/jquery)
+## 5. [JavaScript & J-Query learning](https://github.com/gusdnd852/Today-I-Learned/tree/master/JQuery)
 Learning to improve JavaScript and JQuery skills 😆
 
 <a href="https://www.youtube.com/watch?v=jR2zWjCT2XI&list=PLG7te9eYUi7vnribGociCy0Z-yD9Q8hwT&index=1">
-<img src="https://user-images.githubusercontent.com/38183241/45194658-e876cc80-b28e-11e8-91f4-357e3b0753d8.jpg"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46162059-309f7280-c2c2-11e8-8f18-c5605f0e3294.png"/></a>
 
 <br>
 <br>
 <br>
 
-## 6. [JSP & Servlet with Tomcat](https://github.com/gusdnd852/Today-I-Learned/tree/master/javaweb)
+## 6. [JSP & Servlet with Tomcat Server](https://github.com/gusdnd852/Today-I-Learned/tree/master/JavaWeb)
 Building web applications with jsp and servlets 🌐
 
 <a href="https://www.youtube.com/watch?v=APJAJeePl4g&list=PLYBmkgNU_x7Zj0nCzt5D0qV33C_rU1NK2">
-<img src="https://user-images.githubusercontent.com/38183241/46156904-87eb1600-c2b5-11e8-86c8-a0f208d55e06.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46162209-93910980-c2c2-11e8-8c5f-75633287f593.png"/></a>
 
 <br>
 <br>
 <br>
 
-## 7. [Concurrency Functional programming with  RxJava](https://github.com/gusdnd852/Today-I-Learned/tree/master/rx)
+## 7. [Concurrency Functional programming with  RxJava](https://github.com/gusdnd852/Today-I-Learned/tree/master/RX)
 Learn about reactive programming paradigm techniques 👾
 
 <a href="http://reactivex.io/">
-<img src="https://user-images.githubusercontent.com/38183241/46157174-20819600-c2b6-11e8-93d2-2148a31b4974.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46162309-d05d0080-c2c2-11e8-8a21-f7207549ebf2.png"/></a>
