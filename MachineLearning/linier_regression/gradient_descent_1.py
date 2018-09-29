@@ -24,6 +24,10 @@ descent = w - rate * gradient
 update = w.assign(descent)
 # w = w - 기울기 (assign 시키는 노드를 생성)
 
+# gradient descent algorithm
+# w = w - (rate * d/dw cost(w))
+# rate 가 너무 크면 값이 발산함.
+
 sess = tf.Session()
 sess.run(tf.global_variables_initializer())
 

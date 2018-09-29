@@ -17,6 +17,7 @@ optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.01)
 
 gvs = optimizer.compute_gradients(cost)
 train = optimizer.apply_gradients(gvs)
+# 커스텀 옵티마이저 세팅 가능
 
 sess = tf.Session()
 sess.run(tf.global_variables_initializer())
