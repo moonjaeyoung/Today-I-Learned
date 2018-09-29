@@ -84,4 +84,4 @@ Learn about reactive programming paradigm techniques 👾
 Practice using python numpy library for data analysis 📈
 
 <a href="https://www.youtube.com/watch?v=aHthqCgsSFs&list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp/">
-<img src="https://user-images.githubusercontent.com/38183241/46241360-f8e41800-c3f2-11e8-9c01-69ebf1308211.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46241366-10bb9c00-c3f3-11e8-8245-51627afba3e9.png"/></a>
