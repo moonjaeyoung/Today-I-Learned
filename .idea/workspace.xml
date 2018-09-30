@@ -6,7 +6,10 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70b57662-819e-44de-a769-c575224f48cb" name="Default" comment="commit" />
+    <list default="true" id="70b57662-819e-44de-a769-c575224f48cb" name="Default" comment="commit">
+      <change beforePath="$PROJECT_DIR$/MachineLearning/logistic_regression/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/logistic_regression/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/WebStudy/target/" />
     <ignored path="$PROJECT_DIR$/javaweb/target/" />
     <ignored path="$PROJECT_DIR$/rx/.gradle/" />
@@ -42,6 +45,7 @@
     <SUITE FILE_PATH="coverage/TIL$Lambda.coverage" NAME="Lambda Coverage Results" MODIFIED="1536807547607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonPractice/FP" />
     <SUITE FILE_PATH="coverage/TIL$flower.coverage" NAME="flower Coverage Results" MODIFIED="1537236217589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/practice/perceptron" />
     <SUITE FILE_PATH="coverage/TIL$9__data_io.coverage" NAME="9. data io Coverage Results" MODIFIED="1538240723898" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy/numpy_practice" />
+    <SUITE FILE_PATH="coverage/TIL$logistic_regression_1.coverage" NAME="logistic_regression_1 Coverage Results" MODIFIED="1538282224179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/logistic_regression" />
     <SUITE FILE_PATH="coverage/TIL$tensorflow_3.coverage" NAME="tensorflow_3 Coverage Results" MODIFIED="1538143241450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
     <SUITE FILE_PATH="coverage/TIL$optional_optimizer.coverage" NAME="optional_optimizer Coverage Results" MODIFIED="1538153585041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
     <SUITE FILE_PATH="coverage/TIL$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1536800625964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning" />
@@ -50,6 +54,7 @@
     <SUITE FILE_PATH="coverage/TIL$tensorflow_2.coverage" NAME="tensorflow_2 Coverage Results" MODIFIED="1538071264261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
     <SUITE FILE_PATH="coverage/TIL$linier_regression_1.coverage" NAME="linier_regression_1 Coverage Results" MODIFIED="1538151282028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
     <SUITE FILE_PATH="coverage/TIL$6__array_operation.coverage" NAME="6. array operation Coverage Results" MODIFIED="1538237305907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy/numpy_practice" />
+    <SUITE FILE_PATH="coverage/TIL$logistic_regression_2.coverage" NAME="logistic_regression_2 Coverage Results" MODIFIED="1538281737308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/logistic_regression" />
     <SUITE FILE_PATH="coverage/TIL$ndarray.coverage" NAME="ndarray Coverage Results" MODIFIED="1538202306284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy/numpy_practice" />
     <SUITE FILE_PATH="coverage/TIL$multi_feature_2.coverage" NAME="multi_feature_2 Coverage Results" MODIFIED="1538193948277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
     <SUITE FILE_PATH="coverage/TIL$gradient_descent.coverage" NAME="gradient_descent Coverage Results" MODIFIED="1538151317250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
@@ -119,7 +124,7 @@
           <entry key="json" value="3" />
           <entry key="jsp" value="11" />
           <entry key="npy" value="1" />
-          <entry key="py" value="71" />
+          <entry key="py" value="72" />
           <entry key="sc" value="4" />
           <entry key="scala" value="1" />
           <entry key="xhtml" value="1" />
@@ -139,7 +144,7 @@
           <entry key="JSP" value="11" />
           <entry key="JavaScript" value="13" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="71" />
+          <entry key="Python" value="72" />
           <entry key="Scala" value="5" />
           <entry key="XHTML" value="1" />
           <entry key="XML" value="5" />
@@ -148,14 +153,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Scala Console" value="98" />
-          <entry key="csv" value="311" />
-          <entry key="dummy" value="167" />
+          <entry key="csv" value="315" />
+          <entry key="dummy" value="169" />
           <entry key="ft" value="6" />
           <entry key="gradle" value="3" />
           <entry key="html" value="276" />
           <entry key="java" value="9533" />
           <entry key="jsp" value="113" />
-          <entry key="py" value="15324" />
+          <entry key="py" value="15330" />
           <entry key="sc" value="283" />
           <entry key="scala" value="4" />
           <entry key="txt" value="52" />
@@ -164,13 +169,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSV" value="311" />
+          <entry key="CSV" value="315" />
           <entry key="Groovy" value="3" />
           <entry key="HTML" value="276" />
           <entry key="JAVA" value="9533" />
           <entry key="JSP" value="113" />
-          <entry key="PLAIN_TEXT" value="219" />
-          <entry key="Python" value="15324" />
+          <entry key="PLAIN_TEXT" value="221" />
+          <entry key="Python" value="15330" />
           <entry key="Scala" value="385" />
           <entry key="VTL" value="6" />
           <entry key="XML" value="24" />
@@ -247,11 +252,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="213">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -260,10 +265,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/data.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            <state relative-caret-position="196">
+              <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -273,15 +287,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84">
               <caret line="3" column="12" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Numpy/numpy_practice/data1.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -975,8 +980,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rx/src/main/java/Rx02.java" />
-        <option value="$PROJECT_DIR$/rx/src/main/java/Rx03.java" />
         <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_practice.py" />
         <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_1.py" />
         <option value="$PROJECT_DIR$/MachineLearning/tensorflow/tensorflow_2.py" />
@@ -1025,6 +1028,8 @@
         <option value="$PROJECT_DIR$/MachineLearning/linier_regression/load_file_2.py" />
         <option value="$PROJECT_DIR$/MachineLearning/linier_regression/load_data_2.py" />
         <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_2.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py" />
         <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/data.csv" />
       </list>
     </option>
@@ -1162,7 +1167,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538281349006" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538282150082" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -1202,7 +1207,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.logistic_regression">
+  <component name="RunManager" selected="Python.logistic_regression_1">
     <configuration name="Rx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rx01" />
       <module name="rx_main" />
@@ -1222,50 +1227,6 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="7. comparison" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Numpy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy/numpy_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Numpy/numpy_practice/7. comparison.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="8. boolean &amp; fancy index" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Numpy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Numpy/numpy_practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\GitHub\TIL\Numpy\numpy_practice\8. boolean index.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="9. data io" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Numpy" />
@@ -1324,7 +1285,51 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Administrator\Desktop\GitHub\TIL\MachineLearning\logistic_regression\logistic_regression_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logistic_regression_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/logistic_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="logistic_regression_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/logistic_regression" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1546,19 +1551,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 9.0.11" />
-      <item itemvalue="Python.7. comparison" />
-      <item itemvalue="Python.8. boolean &amp; fancy index" />
       <item itemvalue="Python.9. data io" />
       <item itemvalue="Python.load_data" />
       <item itemvalue="Python.logistic_regression" />
+      <item itemvalue="Python.logistic_regression_2" />
+      <item itemvalue="Python.logistic_regression_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.logistic_regression_1" />
+        <item itemvalue="Python.logistic_regression_2" />
         <item itemvalue="Python.logistic_regression" />
         <item itemvalue="Python.load_data" />
         <item itemvalue="Python.9. data io" />
-        <item itemvalue="Python.8. boolean &amp; fancy index" />
-        <item itemvalue="Python.7. comparison" />
       </list>
     </recent_temporary>
   </component>
@@ -1603,7 +1608,7 @@
       <workItem from="1537458968028" duration="595000" />
       <workItem from="1537966450287" duration="5780000" />
       <workItem from="1538023727938" duration="1270000" />
-      <workItem from="1538061313945" duration="59089000" />
+      <workItem from="1538061313945" duration="59776000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1536392988382</created>
@@ -1616,7 +1621,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176125000" />
+    <option name="totallyTimeSpent" value="176812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -1635,7 +1640,7 @@
       <window_info anchor="bottom" id="Build" order="0" weight="0.32918552" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32919955" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989059" visible="true" weight="0.03125" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989059" visible="true" weight="0.42299107" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.2863585" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -1692,16 +1697,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/RX/src/main/java/Rx01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
-          <folding>
-            <element signature="e#695#696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RX/src/main/java/Rx03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -2043,20 +2038,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/data.csv">
+    <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="29">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression.py">
+    <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="213">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
         </state>
       </provider>
     </entry>

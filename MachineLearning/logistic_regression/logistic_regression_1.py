@@ -12,11 +12,15 @@ X = tf.placeholder(tf.float32, shape=[None, 5])
 Y = tf.placeholder(tf.float32, shape=[None, 1])
 W = tf.Variable(tf.random_normal([5, 1]), dtype=tf.float32)
 
-hypothesis = tf.div(1., 1. + tf.exp(-tf.matmul(X, W)))
-# tf.sigmoid(tf.matmul(X, W)) 이걸로 써도 됨.
+# Hypothesis using sigmoid: tf.div(1., 1. + tf.exp(tf.matmul(X, W)))
+hypothesis = tf.sigmoid(tf.matmul(X, W))
 
-cost = tf.reduce_min(-Y * tf.log(hypothesis) - (1 - Y) * tf.log(1 - hypothesis))
-train = tf.train.GradientDescentOptimizer(learning_rate=0.01).minimize(cost)
+# cost/loss function
+cost = -tf.reduce_mean(Y * tf.log(hypothesis) + (1 - Y) *
+                       tf.log(1 - hypothesis))
+
+train = tf.train.GradientDescentOptimizer(learning_rate=0.05).minimize(cost)
+
 
 sess = tf.Session()
 sess.run(tf.global_variables_initializer())
