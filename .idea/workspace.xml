@@ -7,12 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70b57662-819e-44de-a769-c575224f48cb" name="Default" comment="commit">
-      <change beforePath="$PROJECT_DIR$/MachineLearning/linear_regression/gradient_descent_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/linear_regression/gradient_descent_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/linear_regression/gradient_descent_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/linear_regression/gradient_descent_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/linear_regression/linear_regression_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/linear_regression/linear_regression_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/linear_regression/linear_regression_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/linear_regression/linear_regression_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/linear_regression/load_data_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/linear_regression/load_data_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/linear_regression/multi_feature_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/linear_regression/multi_feature_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/WebStudy/target/" />
     <ignored path="$PROJECT_DIR$/javaweb/target/" />
@@ -54,8 +49,9 @@
     <SUITE FILE_PATH="coverage/TIL$tensorflow_3.coverage" NAME="tensorflow_3 Coverage Results" MODIFIED="1538143241450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
     <SUITE FILE_PATH="coverage/TIL$softmax_regression_1.coverage" NAME="softmax_regression_1 Coverage Results" MODIFIED="1538293615979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/softmax_regression" />
     <SUITE FILE_PATH="coverage/TIL$optional_optimizer.coverage" NAME="optional_optimizer Coverage Results" MODIFIED="1538153585041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
+    <SUITE FILE_PATH="coverage/TIL$evaluation_1.coverage" NAME="evaluation_1 Coverage Results" MODIFIED="1538313982636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/evaluation" />
     <SUITE FILE_PATH="coverage/TIL$turtle.coverage" NAME="turtle Coverage Results" MODIFIED="1536800625964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning" />
-    <SUITE FILE_PATH="coverage/TIL$multi_feature_3.coverage" NAME="multi_feature_3 Coverage Results" MODIFIED="1538294215223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linear_regression" />
+    <SUITE FILE_PATH="coverage/TIL$multi_feature_3.coverage" NAME="multi_feature_3 Coverage Results" MODIFIED="1538304694289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linear_regression" />
     <SUITE FILE_PATH="coverage/TIL$2__shape_handling.coverage" NAME="2. shape_handling Coverage Results" MODIFIED="1538207149953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy/numpy_practice" />
     <SUITE FILE_PATH="coverage/TIL$tensorflow_2.coverage" NAME="tensorflow_2 Coverage Results" MODIFIED="1538071264261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
     <SUITE FILE_PATH="coverage/TIL$linier_regression_1.coverage" NAME="linier_regression_1 Coverage Results" MODIFIED="1538151282028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
@@ -65,6 +61,7 @@
     <SUITE FILE_PATH="coverage/TIL$multi_feature_2.coverage" NAME="multi_feature_2 Coverage Results" MODIFIED="1538193948277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
     <SUITE FILE_PATH="coverage/TIL$gradient_descent.coverage" NAME="gradient_descent Coverage Results" MODIFIED="1538151317250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
     <SUITE FILE_PATH="coverage/TIL$4__creation_functions.coverage" NAME="4. creation functions Coverage Results" MODIFIED="1538230901869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy/numpy_practice" />
+    <SUITE FILE_PATH="coverage/TIL$softmax_regression_2.coverage" NAME="softmax_regression_2 Coverage Results" MODIFIED="1538307710033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/softmax_regression" />
     <SUITE FILE_PATH="coverage/TIL$tensorflow_practice.coverage" NAME="tensorflow_practice Coverage Results" MODIFIED="1538071228416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
     <SUITE FILE_PATH="coverage/TIL$8__boolean___fancy_index.coverage" NAME="8. boolean &amp; fancy index Coverage Results" MODIFIED="1538239522486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy/numpy_practice" />
     <SUITE FILE_PATH="coverage/TIL$___slicing_practice.coverage" NAME="$. slicing_practice Coverage Results" MODIFIED="1538230152845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy/numpy_practice" />
@@ -119,7 +116,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="csv" value="8" />
+          <entry key="csv" value="14" />
           <entry key="gradle" value="2" />
           <entry key="html" value="8" />
           <entry key="http" value="1" />
@@ -130,7 +127,7 @@
           <entry key="json" value="3" />
           <entry key="jsp" value="11" />
           <entry key="npy" value="1" />
-          <entry key="py" value="81" />
+          <entry key="py" value="88" />
           <entry key="sc" value="4" />
           <entry key="scala" value="1" />
           <entry key="xhtml" value="1" />
@@ -139,7 +136,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSV" value="8" />
+          <entry key="CSV" value="14" />
           <entry key="Groovy" value="2" />
           <entry key="HTML" value="8" />
           <entry key="HTTP Request" value="1" />
@@ -150,7 +147,7 @@
           <entry key="JSP" value="11" />
           <entry key="JavaScript" value="13" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="81" />
+          <entry key="Python" value="88" />
           <entry key="Scala" value="5" />
           <entry key="XHTML" value="1" />
           <entry key="XML" value="5" />
@@ -159,14 +156,14 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Scala Console" value="98" />
-          <entry key="csv" value="517" />
+          <entry key="csv" value="659" />
           <entry key="dummy" value="175" />
           <entry key="ft" value="6" />
           <entry key="gradle" value="3" />
           <entry key="html" value="276" />
           <entry key="java" value="9533" />
           <entry key="jsp" value="113" />
-          <entry key="py" value="16312" />
+          <entry key="py" value="18496" />
           <entry key="sc" value="283" />
           <entry key="scala" value="4" />
           <entry key="txt" value="52" />
@@ -175,13 +172,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSV" value="517" />
+          <entry key="CSV" value="659" />
           <entry key="Groovy" value="3" />
           <entry key="HTML" value="276" />
           <entry key="JAVA" value="9533" />
           <entry key="JSP" value="113" />
           <entry key="PLAIN_TEXT" value="227" />
-          <entry key="Python" value="16312" />
+          <entry key="Python" value="18496" />
           <entry key="Scala" value="385" />
           <entry key="VTL" value="6" />
           <entry key="XML" value="24" />
@@ -202,10 +199,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/data_zoo.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+            <state relative-caret-position="420">
+              <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/evaluation/evaluation_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="620">
+              <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -214,10 +232,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/linear_regression_2.py">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/evaluation/data_test.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="84">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/evaluation/data_training.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="34" selection-start-line="34" selection-end-line="44" selection-end-column="27" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/data.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/data.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -228,92 +294,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/load_data_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/multi_feature_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="566">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-              <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/multi_feature_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/multi_feature_3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="50" column="48" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/gradient_descent_2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="13" column="17" lean-forward="true" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/gradient_descent_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/linear_regression_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="111">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="420">
+              <caret line="15" column="47" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="47" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -345,6 +327,7 @@
       <find>gc</find>
       <find>finalize</find>
       <find>put</find>
+      <find>,,,,,,,,,,,</find>
     </findStrings>
     <replaceStrings>
       <replace>상</replace>
@@ -1010,11 +993,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/gradient_descent_optimizer.py" />
-        <option value="$PROJECT_DIR$/MachineLearning/linier_regression/optional_optimizer.py" />
-        <option value="$PROJECT_DIR$/ScalaPractice/src/Main.scala" />
-        <option value="$PROJECT_DIR$/ScalaPractice/src/libs.sc" />
-        <option value="$PROJECT_DIR$/ScalaPractice/src/main.sc" />
         <option value="$PROJECT_DIR$/MachineLearning/linier_regression/multi_feature.py" />
         <option value="$PROJECT_DIR$/MachineLearning/linier_regression/mluti_feature.py" />
         <option value="$PROJECT_DIR$/MachineLearning/numpy.py" />
@@ -1051,16 +1029,21 @@
         <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression.py" />
         <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_2.py" />
         <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/data.csv" />
-        <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py" />
         <option value="$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression.py" />
         <option value="$PROJECT_DIR$/MachineLearning/softmax_regression/data.csv" />
-        <option value="$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py" />
         <option value="$PROJECT_DIR$/MachineLearning/linear_regression/linear_regression_2.py" />
         <option value="$PROJECT_DIR$/MachineLearning/linear_regression/gradient_descent_2.py" />
         <option value="$PROJECT_DIR$/MachineLearning/linear_regression/gradient_descent_1.py" />
         <option value="$PROJECT_DIR$/MachineLearning/linear_regression/linear_regression_1.py" />
-        <option value="$PROJECT_DIR$/MachineLearning/linear_regression/load_data_1.py" />
         <option value="$PROJECT_DIR$/MachineLearning/linear_regression/multi_feature_3.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/zoo.csv" />
+        <option value="$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_2.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/linear_regression/load_data_1.py" />
+        <option value="$PROJECT_DIR$/MachineLearning/evaluation/data_training.csv" />
+        <option value="$PROJECT_DIR$/MachineLearning/evaluation/data_test.csv" />
+        <option value="$PROJECT_DIR$/MachineLearning/evaluation/evaluation_1.py" />
       </list>
     </option>
   </component>
@@ -1107,7 +1090,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -1153,6 +1136,12 @@
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
               <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
+              <item name="evaluation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
               <item name="linear_regression" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -1189,6 +1178,42 @@
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
               <item name="PythonPractice" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="FP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="OOP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="변수와 입출력" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="연산자와 제어문" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="컨테이너" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="함수와 모듈" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -1203,7 +1228,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538293718574" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538313549611" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -1218,17 +1243,17 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\javaweb\src\main\webapp" />
-      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\javaweb\web" />
-      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\javaweb" />
-      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\WebStudy\css" />
-      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\WebStudy\html" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator\Desktop\GitHub\TIL2" />
       <recent name="C:\Users\Administrator\Desktop\GitHub\TIL2\Algorithm" />
       <recent name="C:\Users\Administrator\Desktop\GitHub\TIL2\PythonPractice" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\MachineLearning" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\MachineLearning\softmax_regression" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\javaweb\src\main\webapp" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\javaweb\web" />
+      <recent name="C:\Users\Administrator\Desktop\GitHub\TIL\javaweb" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1243,7 +1268,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.multi_feature_3">
+  <component name="RunManager" selected="Python.evaluation_1">
     <configuration name="Rx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rx01" />
       <module name="rx_main" />
@@ -1263,6 +1288,28 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="evaluation_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/evaluation" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/evaluation/evaluation_1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="linear_regression_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
@@ -1308,28 +1355,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logistic_regression_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="MachineLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MachineLearning/logistic_regression" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="multi_feature_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1352,7 +1377,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="softmax_regression_1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="softmax_regression_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1365,7 +1390,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -1587,19 +1612,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 9.0.11" />
-      <item itemvalue="Python.logistic_regression_2" />
       <item itemvalue="Python.logistic_regression_1" />
-      <item itemvalue="Python.softmax_regression_1" />
       <item itemvalue="Python.linear_regression_2" />
       <item itemvalue="Python.multi_feature_3" />
+      <item itemvalue="Python.softmax_regression_2" />
+      <item itemvalue="Python.evaluation_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.evaluation_1" />
+        <item itemvalue="Python.softmax_regression_2" />
         <item itemvalue="Python.multi_feature_3" />
         <item itemvalue="Python.linear_regression_2" />
         <item itemvalue="Python.logistic_regression_1" />
-        <item itemvalue="Python.softmax_regression_1" />
-        <item itemvalue="Python.logistic_regression_2" />
       </list>
     </recent_temporary>
   </component>
@@ -1644,7 +1669,7 @@
       <workItem from="1537458968028" duration="595000" />
       <workItem from="1537966450287" duration="5780000" />
       <workItem from="1538023727938" duration="1270000" />
-      <workItem from="1538061313945" duration="65174000" />
+      <workItem from="1538061313945" duration="73169000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1536392988382</created>
@@ -1657,13 +1682,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182210000" />
+    <option name="totallyTimeSpent" value="190205000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85196376" visible="true" weight="0.24070022" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85196376" visible="true" weight="0.11727079" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1675,9 +1699,9 @@
       <window_info id="Web" order="9" sideWeight="0.14803626" side_tool="true" weight="0.13859275" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.32918552" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32919955" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989059" visible="true" weight="0.48703495" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.2863585" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.328125" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989059" visible="true" weight="0.118303575" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.2857143" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -1733,51 +1757,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://C:/Anaconda3/envs/untitled/Lib/site-packages/tensorflow/python/ops/gradients_impl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="506" column="4" selection-start-line="506" selection-start-column="4" selection-end-line="506" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaPractice/src/Main.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaPractice/src/libs.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ScalaPractice/src/main.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/numpy.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://C:/Anaconda3/envs/untitled/Lib/site-packages/tensorflow/python/ops/math_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="616" column="4" selection-start-line="616" selection-start-column="4" selection-end-line="616" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://C:/Anaconda3/envs/untitled/Lib/site-packages/tensorflow/python/ops/variables.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="158" column="6" selection-start-line="158" selection-start-column="6" selection-end-line="158" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/numpy/test_score.csv">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1991,40 +1970,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="28">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/gradient_descent_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
@@ -2065,16 +2010,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/load_data_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/multi_feature_2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="566">
@@ -2097,8 +2032,107 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/multi_feature_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="50" column="48" selection-start-line="50" selection-start-column="48" selection-end-line="50" selection-end-column="48" />
+        <state relative-caret-position="308">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/envs/untitled/Lib/site-packages/tensorflow/python/ops/nn_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="1777" lean-forward="true" selection-start-line="1777" selection-end-line="1777" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Anaconda3/envs/untitled/Lib/site-packages/tensorflow/python/ops/gen_array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="6125" column="4" selection-start-line="6125" selection-start-column="4" selection-end-line="6125" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/linear_regression/load_data_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/data_zoo.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/data.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="34" selection-start-line="34" selection-end-line="44" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/evaluation/data_test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/evaluation/data_training.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/evaluation/evaluation_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="620">
+          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
