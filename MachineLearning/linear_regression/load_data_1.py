@@ -19,7 +19,7 @@ W = tf.Variable(tf.random_normal([3, 1]))
 b = tf.Variable(tf.random_normal([1]))
 
 hypothesis = tf.matmul(X, W) + b
-cost = tf.reduce_min(tf.square(hypothesis - Y))
+cost = tf.reduce_mean(tf.square(hypothesis - Y))
 
 train = tf.train.GradientDescentOptimizer(learning_rate=1e-6).minimize(cost)
 

@@ -12,7 +12,7 @@ y = tf.placeholder(tf.float32)
 w = tf.Variable(tf.random_normal([1]), name='weight')
 
 hypothesis = w * x
-cost = tf.reduce_min(tf.square(hypothesis - y))
+cost = tf.reduce_mean(tf.square(hypothesis - y))
 
 trainer = tf.train.GradientDescentOptimizer(learning_rate=0.01).minimize(cost)
 

@@ -11,7 +11,7 @@ y = tf.placeholder(tf.float32)
 w = tf.Variable(5.0)
 
 hypothesis = w * x
-cost = tf.reduce_min(tf.square(hypothesis - y))
+cost = tf.reduce_mean(tf.square(hypothesis - y))
 
 optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.01)
 

@@ -28,27 +28,24 @@ Y = tf.placeholder(tf.float32, shape=[None, 1])  # ? x 1
 W = tf.Variable([[0.23], [0.23], [0.23], [0.23], [0.23]], dtype=tf.float32)  # 5 x 1
 
 hypothesis = tf.matmul(X, W)
-cost = tf.reduce_min(tf.square(hypothesis - Y))
+cost = tf.reduce_mean(tf.square(hypothesis - Y))
 
 train = tf.train.GradientDescentOptimizer(learning_rate=0.00001).minimize(cost)
 
 sess = tf.Session()
 sess.run(tf.global_variables_initializer())
 
-# TRAINING SESSION !
 # for i in range(0, 8001):
 #     cost_, hypothesis_, train_ = sess.run([cost, hypothesis, train], feed_dict={X: X_data, Y: Y_data})
+#     print(sess.run(W, feed_dict={X:X_data, Y:Y_data}))
 
-# W = 0.21057633, 0.20996839, 0.21042275, 0.20937954, 0.20866278
+X_prediction = [[80., 86., 84., 79., 85.]]
 
 W_trained = [
-    [0.21057633],
-    [0.20996839],
-    [0.21042275],
-    [0.20937954],
-    [0.20866278]
-]
+    [-0.04799053],
+    [0.18707687],
+    [0.28034818],
+    [0.11900783],
+    [0.4730863]]
 
-X_prediction = [[75.0, 74.0, 78.0, 72.0, 80.0]]
-
-print("예측값 : ", sess.run(tf.matmul(X_prediction, W_trained)))
+print(sess.run(tf.matmul(X_prediction, W_trained)))

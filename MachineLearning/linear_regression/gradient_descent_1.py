@@ -15,7 +15,7 @@ w = tf.Variable(-3.0)
 hypothesis = w * x
 cost = tf.reduce_min(tf.square(hypothesis - y))
 
-gradient = tf.reduce_min((hypothesis - y) * x)
+gradient = tf.reduce_mean((hypothesis - y) * x)
 # cost 를 미분한 함수
 
 descent = w - rate * gradient

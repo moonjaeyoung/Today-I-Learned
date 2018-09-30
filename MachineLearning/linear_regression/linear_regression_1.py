@@ -12,7 +12,7 @@ w = tf.Variable(tf.random_normal([1]), name='weight')
 hypothesis = w * x
 # 우리의 가설함수는 H(x) = w(랜덤) * x
 
-cost = tf.reduce_min(tf.square(y - hypothesis))
+cost = tf.reduce_mean(tf.square(y - hypothesis))
 # cost 함수는 1/m ∑(H(x) - y)^2
 
 trainer = tf.train.GradientDescentOptimizer(learning_rate=0.01).minimize(cost)
