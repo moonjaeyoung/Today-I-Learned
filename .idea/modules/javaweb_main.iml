@@ -16,9 +16,9 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../javaweb/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../javaweb/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../javaweb/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../javaweb/src/main/resources" type="java-resource" />
+    <content url="file://$MODULE_DIR$/../../JavaWeb/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../JavaWeb/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../JavaWeb/src/main/resources" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

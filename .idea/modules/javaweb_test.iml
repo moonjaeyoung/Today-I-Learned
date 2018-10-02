@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output-test url="file://$MODULE_DIR$/../../javaweb/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../javaweb/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../javaweb/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../javaweb/src/test/resources" type="java-test-resource" />
+    <content url="file://$MODULE_DIR$/../../JavaWeb/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../JavaWeb/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../JavaWeb/src/test/resources" type="java-test-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

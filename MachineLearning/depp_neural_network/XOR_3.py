@@ -38,10 +38,10 @@ accuracy = tf.reduce_mean(tf.cast(tf.equal(prediction, Y), dtype=tf.float32))
 with tf.Session() as sess:
     sess.run(tf.global_variables_initializer())
 
-    for i in range(0, 100001):
+    for i in range(0, 10001):
         cost_, hypothesis_, _ = sess.run([cost, hypothesis, train], feed_dict={X: X_data, Y: Y_data})
 
-        if i % 10000 is 0:
+        if i % 1000 is 0:
             print(i, "번째 cost : \n", cost_)
             print(i, "번째 hyp : \n", hypothesis_)
             print("\n")
