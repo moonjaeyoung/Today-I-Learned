@@ -4,6 +4,7 @@
       <w>diag</w>
       <w>legits</w>
       <w>logits</w>
+      <w>mnist</w>
       <w>perceptron</w>
     </words>
   </dictionary>
