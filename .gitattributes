@@ -1,6 +1,0 @@
-*.class linguist-vendored
-*.java linguist-vendored
-*.html linguist-vendored
-*.css linguist-vendored
-*.php linguist-vendored
-*.javascript linguist-vendored  
