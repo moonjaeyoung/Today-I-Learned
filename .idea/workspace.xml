@@ -7,9 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70b57662-819e-44de-a769-c575224f48cb" name="Default" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWeb/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/perceptron/executor.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/perceptron/executor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MachineLearning/advanced_deep_learning/MNIST.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/advanced_deep_learning/MNIST.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/WebStudy/target/" />
     <ignored path="$PROJECT_DIR$/javaweb/target/" />
@@ -61,7 +61,7 @@
     <SUITE FILE_PATH="coverage/TIL$multi_feature_3.coverage" NAME="multi_feature_3 Coverage Results" MODIFIED="1538304694289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linear_regression" />
     <SUITE FILE_PATH="coverage/TIL$2__shape_handling.coverage" NAME="2. shape_handling Coverage Results" MODIFIED="1538207149953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy/numpy_practice" />
     <SUITE FILE_PATH="coverage/TIL$net_linear_regression.coverage" NAME="net_linear_regression Coverage Results" MODIFIED="1538419375737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/depp_neural_network" />
-    <SUITE FILE_PATH="coverage/TIL$MNIST.coverage" NAME="MNIST Coverage Results" MODIFIED="1538471092808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/advanced_deep_learning" />
+    <SUITE FILE_PATH="coverage/TIL$MNIST.coverage" NAME="MNIST Coverage Results" MODIFIED="1538558730352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/advanced_deep_learning" />
     <SUITE FILE_PATH="coverage/TIL$tensorflow_2.coverage" NAME="tensorflow_2 Coverage Results" MODIFIED="1538071264261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/tensorflow" />
     <SUITE FILE_PATH="coverage/TIL$linier_regression_1.coverage" NAME="linier_regression_1 Coverage Results" MODIFIED="1538151282028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/MachineLearning/linier_regression" />
     <SUITE FILE_PATH="coverage/TIL$6__array_operation.coverage" NAME="6. array operation Coverage Results" MODIFIED="1538237305907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Numpy/numpy_practice" />
@@ -114,16 +114,18 @@
     <session id="-157478432">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
+          <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -131,12 +133,12 @@
           <entry key="csv" value="45" />
           <entry key="data_advanced_test" value="1" />
           <entry key="gradle" value="2" />
-          <entry key="html" value="8" />
+          <entry key="html" value="9" />
           <entry key="http" value="1" />
           <entry key="iml" value="1" />
           <entry key="ipynb" value="1" />
           <entry key="java" value="79" />
-          <entry key="js" value="13" />
+          <entry key="js" value="14" />
           <entry key="json" value="3" />
           <entry key="jsp" value="29" />
           <entry key="npy" value="1" />
@@ -151,14 +153,14 @@
         <counts>
           <entry key="CSV" value="45" />
           <entry key="Groovy" value="2" />
-          <entry key="HTML" value="8" />
+          <entry key="HTML" value="9" />
           <entry key="HTTP Request" value="1" />
           <entry key="IDEA_MODULE" value="1" />
           <entry key="IPNB" value="1" />
           <entry key="JAVA" value="79" />
           <entry key="JSON" value="3" />
           <entry key="JSP" value="29" />
-          <entry key="JavaScript" value="13" />
+          <entry key="JavaScript" value="14" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="142" />
           <entry key="Scala" value="5" />
@@ -176,7 +178,7 @@
           <entry key="html" value="276" />
           <entry key="java" value="10628" />
           <entry key="jsp" value="1936" />
-          <entry key="py" value="25158" />
+          <entry key="py" value="25408" />
           <entry key="sc" value="283" />
           <entry key="scala" value="4" />
           <entry key="txt" value="52" />
@@ -191,7 +193,7 @@
           <entry key="JAVA" value="10628" />
           <entry key="JSP" value="1936" />
           <entry key="PLAIN_TEXT" value="254" />
-          <entry key="Python" value="25158" />
+          <entry key="Python" value="25408" />
           <entry key="Scala" value="385" />
           <entry key="VTL" value="6" />
           <entry key="XML" value="24" />
@@ -212,30 +214,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/request_back.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-444">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MachineLearning/perceptron/perceptron.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
-              <folding>
-                <marker date="1538448571877" expanded="true" signature="123:142" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/perceptron/perceptron_impl.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
+            <state relative-caret-position="588">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
@@ -257,7 +238,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/depp_neural_network/XOR_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-248">
+            <state>
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -268,7 +249,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/depp_neural_network/XOR_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="984">
+            <state relative-caret-position="1036">
               <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -280,7 +261,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/depp_neural_network/XOR_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
+            <state relative-caret-position="980">
               <caret line="37" selection-start-line="37" selection-end-line="37" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -292,10 +273,31 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/MNIST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+            <state relative-caret-position="-1060">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
-                <element signature="e#0#58#0" expanded="true" />
+                <element signature="e#0#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JQuery/jquery_example.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.3.1.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="10360" selection-end-line="10364" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -304,8 +306,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="364">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -316,8 +318,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="572">
-              <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+            <state relative-caret-position="342">
+              <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="69" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
@@ -726,7 +728,7 @@
         <entry key="$PROJECT_DIR$/WebStudy/build.gradle" value="2043846522" />
         <entry key="$PROJECT_DIR$/WebStudy/gradle/wrapper/gradle-wrapper.properties" value="1613248354" />
         <entry key="$PROJECT_DIR$/WebStudy/settings.gradle" value="88213064" />
-        <entry key="$PROJECT_DIR$/javaweb" value="6152247722378" />
+        <entry key="$PROJECT_DIR$/javaweb" value="6152247770024" />
         <entry key="$PROJECT_DIR$/javaweb/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/javaweb/build.gradle" value="640423614" />
         <entry key="$PROJECT_DIR$/javaweb/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
@@ -1119,7 +1121,8 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="953" />
+    <option name="x" value="535" />
+    <option name="y" value="-24" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -1170,20 +1173,14 @@
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
               <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="perceptron" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="MachineLearning" type="462c0819:PsiDirectoryNode" />
               <item name="softmax_regression" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1192,7 +1189,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538497414973" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538570180313" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -1205,6 +1202,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -1576,6 +1574,7 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 9.0.11" />
+      <item itemvalue="Application.Rx01" />
       <item itemvalue="Python.deep_learning_1" />
       <item itemvalue="Python.softmax_regression_1" />
       <item itemvalue="Python.softmax_regression_2" />
@@ -1633,7 +1632,9 @@
       <workItem from="1537458968028" duration="595000" />
       <workItem from="1537966450287" duration="5780000" />
       <workItem from="1538023727938" duration="1270000" />
-      <workItem from="1538061313945" duration="118414000" />
+      <workItem from="1538061313945" duration="119625000" />
+      <workItem from="1538553233683" duration="77000" />
+      <workItem from="1538553353837" duration="3317000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1536392988382</created>
@@ -1646,12 +1647,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235450000" />
+    <option name="totallyTimeSpent" value="240055000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85196376" visible="true" weight="0.20202559" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85196376" visible="true" weight="0.20628998" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1664,7 +1665,7 @@
       <window_info anchor="bottom" id="Build" order="0" weight="0.32918552" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32700893" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989059" visible="true" weight="0.29910713" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4989059" weight="0.4564732" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3247768" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -1682,6 +1683,9 @@
       <window_info anchor="bottom" id="CheckStyle" order="18" weight="0.37123746" />
       <window_info anchor="bottom" id="Application Servers" order="19" weight="0.32995495" />
       <window_info anchor="bottom" id="Inspection Results" order="20" weight="0.0" />
+      <window_info anchor="bottom" id="XMake" order="21" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1694,7 +1698,7 @@
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Cargo" order="11" sideWeight="0.49775785" weight="0.32995737" />
-      <window_info anchor="right" id="SciView" order="12" sideWeight="0.4992272" weight="0.75929976" />
+      <window_info anchor="right" id="SciView" order="12" sideWeight="0.4992272" visible="true" weight="0.7590618" />
       <window_info anchor="right" id="Bean Validation" order="13" />
       <window_info anchor="right" id="PlantUML" order="14" weight="0.32995737" />
       <window_info anchor="right" id="UML design tool window" order="15" side_tool="true" weight="0.32995737" />
@@ -1721,26 +1725,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/evaluation_and_MNIST/mnist_analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="7" column="62" lean-forward="true" selection-start-line="7" selection-start-column="62" selection-end-line="7" selection-end-column="62" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Anaconda3/envs/untitled/Lib/site-packages/tensorflow/python/framework/ops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -1752,10 +1736,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
           <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-            <marker date="1538417987154" expanded="true" signature="258:261" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1794,9 +1774,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
           <caret line="8" selection-start-line="8" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1807,16 +1784,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/data_advanced_test">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/data_advance_test.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/data_advanced_test" />
+    <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/data_advance_test.csv" />
     <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/data_zoo.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -1824,54 +1793,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/data_advanced_training.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/data_advanced.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-503">
-          <caret line="63" column="33" lean-forward="true" selection-start-line="63" selection-start-column="33" selection-end-line="63" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/deep_learning_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/data_advanced_training.csv" />
+    <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/data_advanced.csv" />
+    <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/deep_learning_1.py" />
     <entry file="file://$PROJECT_DIR$/MachineLearning/evaluation_and_MNIST/evaluation.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="9" selection-start-line="9" selection-end-line="14" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ArtificialIntelligence/perceptron/perceptron.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ArtificialIntelligence/perceptron/perceptron.py" />
     <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/java/com/demo/servlet/Servlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="453">
           <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1903,9 +1839,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/error.xhtml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/error.xhtml" />
     <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/error_page.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -1969,13 +1903,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/action.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/action.jsp" />
     <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/forward_action.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -2020,7 +1948,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/request_back.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-444">
+        <state relative-caret-position="84">
           <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
@@ -2037,7 +1965,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/perceptron/perceptron_impl.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
+        <state relative-caret-position="588">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
@@ -2055,7 +1983,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/depp_neural_network/XOR_1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-248">
+        <state>
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -2064,7 +1992,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/depp_neural_network/XOR_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="984">
+        <state relative-caret-position="1036">
           <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
@@ -2074,8 +2002,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/depp_neural_network/XOR_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
+        <state relative-caret-position="980">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JQuery/jquery_example.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.3.1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="10360" selection-end-line="10364" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="69" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -2084,18 +2039,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="43" column="11" selection-start-line="43" selection-start-column="11" selection-end-line="43" selection-end-column="11" />
+        <state relative-caret-position="364">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
           </folding>
@@ -2104,10 +2049,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/MNIST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+        <state relative-caret-position="-1060">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
-            <element signature="e#0#58#0" expanded="true" />
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
