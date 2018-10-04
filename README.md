@@ -73,17 +73,7 @@ Building web applications with jsp and servlets 🌐
 <br>
 <br>
 
-## 7. [Concurrency Functional programming with  RxJava](https://github.com/gusdnd852/Today-I-Learned/tree/master/RX)
-Learn about reactive programming paradigm techniques 👾
-
-<a href="http://reactivex.io/">
-<img src="https://user-images.githubusercontent.com/38183241/46162309-d05d0080-c2c2-11e8-8a21-f7207549ebf2.png"/></a>
-
-<br>
-<br>
-<br>
-
-## 8. [Numerical Python with Numpy](https://github.com/gusdnd852/Today-I-Learned/tree/master/Numpy)
+## 7. [Numerical Python with Numpy](https://github.com/gusdnd852/Today-I-Learned/tree/master/Numpy)
 Practice using python numpy library for data analysis 📈
 
 <a href="https://www.youtube.com/watch?v=aHthqCgsSFs&list=PLBHVuYlKEkULZLnKLzRq1CnNBOBlBTkqp/">
