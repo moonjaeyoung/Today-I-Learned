@@ -14,6 +14,13 @@ import java.io.IOException;
  */
 @WebServlet(name = "Servlet", urlPatterns = "/servlet")
 public class Servlet extends HttpServlet {
+
+    @Override public void init() throws ServletException {
+        super.init();
+        // 서블릿 클래스의 초기화를 담당하는 init
+    }
+
+
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
     }

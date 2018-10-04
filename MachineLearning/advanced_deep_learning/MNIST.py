@@ -2,8 +2,18 @@ import tensorflow as tf
 import random
 import matplotlib.pyplot as plt
 import os
+import math
 
 from tensorflow.examples.tutorials.mnist import input_data
+
+
+def xavier_init(n_inputs, n_outputs, uniform=True):
+    if uniform:
+        init_range = math.sqrt(6.0 / (n_inputs + n_outputs))
+        return tf.random_uniform_initializer(-init_range, init_range)
+    else:
+        stddev = math.sqrt(3.0 / (n_inputs + n_outputs))
+        return tf.truncated_normal_initializer(stddev=stddev)
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 tf.set_random_seed(777)

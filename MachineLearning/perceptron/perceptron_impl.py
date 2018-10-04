@@ -15,7 +15,7 @@ class PerceptronImpl(Perceptron):
 
         for i in range(self.iteration):
             errors = 0  # 에러 횟수 초기화
-            for X in zip(x, y):
+            for X , Y in zip(x, y):
                 # zip 함수 : 두개의 배열의 같은 인덱스를 잘라 새로운 배열로 만들어냄.
 
                 update = self.rate * (y - self.predict(X))
