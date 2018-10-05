@@ -6,10 +6,7 @@
         <webroots>
           <root url="file://C:\Users\Administrator\Desktop\GitHub\TIL\javaweb\src\main\webapp" relative="/" />
         </webroots>
-        <sourceRoots>
-          <root url="file://$MODULE_DIR$/../../javaweb/src/main/java" />
-          <root url="file://$MODULE_DIR$/../../javaweb/src/main/resources" />
-        </sourceRoots>
+        <sourceRoots />
       </configuration>
     </facet>
   </component>

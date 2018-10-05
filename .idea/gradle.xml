@@ -26,7 +26,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/rx" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/rx" />
+            <option value="$PROJECT_DIR$/Rx" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

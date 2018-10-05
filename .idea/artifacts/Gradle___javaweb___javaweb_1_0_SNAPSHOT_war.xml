@@ -6,6 +6,19 @@
     </properties>
     <root id="archive" name="javaweb-1.0-SNAPSHOT.war">
       <element id="artifact" artifact-name="Gradle : javaweb : javaweb-1.0-SNAPSHOT.war (exploded)" />
+      <element id="artifact" artifact-name="Spring:war exploded" />
+      <element id="artifact" artifact-name="Spring:war exploded2" />
+      <element id="artifact" artifact-name="javaweb:war" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Java EE 6-Java EE 6" />
+        </element>
+        <element id="directory" name="classes">
+          <element id="library" level="application" name="jquery-3.3.1" />
+          <element id="library" level="application" name="jquery-latest" />
+          <element id="module-output" name="Algorithm" />
+        </element>
+      </element>
     </root>
   </artifact>
 </component>
