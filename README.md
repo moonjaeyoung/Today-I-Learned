@@ -7,8 +7,8 @@
 
 <br>
 
-#### * Name Clicked : Go to the corresponding source code file.
-#### * Picture Clicked : Go to the link of the Learning materials.
+Source code file : Name clicked
+Learning materials : Picture Clicked 
 
 <br>
 
