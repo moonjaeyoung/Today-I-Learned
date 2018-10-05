@@ -107,7 +107,7 @@ Using the Spring Framework to create lightweight Java code and clean MVC Web ğŸ
 Basic learning about many artificial intelligence algorithms and techniques ğŸ¤–
 
 <a href="https://blog.naver.com/PostView.nhn?blogId=samsjang&logNo=220908155111&categoryNo=87&parentCategoryNo=0&viewDate=&currentPage=4&postListTopCurrentPage=&from=postList&userTopListOpen=true&userTopListCount=10&userTopListManageOpen=false&userTopListCurrentPage=4/">
-<img src="https://user-images.githubusercontent.com/38183241/46540585-bd66b380-c8f4-11e8-82cf-d3dd0bbe7557.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46541336-b5a80e80-c8f6-11e8-8baa-9030e0744787.png"/></a>
 
 
 <br>
