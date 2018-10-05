@@ -13,9 +13,6 @@
       <module fileurl="file://$PROJECT_DIR$/Numpy/Numpy.iml" filepath="$PROJECT_DIR$/Numpy/Numpy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Python/Python.iml" filepath="$PROJECT_DIR$/Python/Python.iml" />
       <module fileurl="file://$PROJECT_DIR$/RL/RL.iml" filepath="$PROJECT_DIR$/RL/RL.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RX.iml" filepath="$PROJECT_DIR$/.idea/modules/RX.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RX_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RX_main.iml" group="RX" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RX_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RX_test.iml" group="RX" />
       <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Web/Web.iml" filepath="$PROJECT_DIR$/Web/Web.iml" />
     </modules>
