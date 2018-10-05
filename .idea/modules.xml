@@ -2,21 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AI/AI.iml" filepath="$PROJECT_DIR$/AI/AI.iml" />
       <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ArtificialIntelligence/ArtificialIntelligence.iml" filepath="$PROJECT_DIR$/ArtificialIntelligence/ArtificialIntelligence.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MachineLearning/MachineLearning.iml" filepath="$PROJECT_DIR$/MachineLearning/MachineLearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSP&amp;Servlet.iml" filepath="$PROJECT_DIR$/.idea/modules/JSP&amp;Servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSP&amp;Servlet_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JSP&amp;Servlet_main.iml" group="JSP&amp;Servlet" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JSP&amp;Servlet_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JSP&amp;Servlet_test.iml" group="JSP&amp;Servlet" />
+      <module fileurl="file://$PROJECT_DIR$/Javascript/Javascript.iml" filepath="$PROJECT_DIR$/Javascript/Javascript.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AI/Javascript&amp;JQuery.iml" filepath="$PROJECT_DIR$/AI/Javascript&amp;JQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ML/ML.iml" filepath="$PROJECT_DIR$/ML/ML.iml" />
       <module fileurl="file://$PROJECT_DIR$/Numpy/Numpy.iml" filepath="$PROJECT_DIR$/Numpy/Numpy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PythonPractice/PythonPractice.iml" filepath="$PROJECT_DIR$/PythonPractice/PythonPractice.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ReinforcementLearning/ReinforcementLearning.iml" filepath="$PROJECT_DIR$/ReinforcementLearning/ReinforcementLearning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rx.iml" filepath="$PROJECT_DIR$/.idea/modules/Rx.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rx_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Rx_main.iml" group="Rx" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Rx_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Rx_test.iml" group="Rx" />
+      <module fileurl="file://$PROJECT_DIR$/Python/Python.iml" filepath="$PROJECT_DIR$/Python/Python.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RL/RL.iml" filepath="$PROJECT_DIR$/RL/RL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RX.iml" filepath="$PROJECT_DIR$/.idea/modules/RX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RX_main.iml" filepath="$PROJECT_DIR$/.idea/modules/RX_main.iml" group="RX" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RX_test.iml" filepath="$PROJECT_DIR$/.idea/modules/RX_test.iml" group="RX" />
       <module fileurl="file://$PROJECT_DIR$/Spring/Spring.iml" filepath="$PROJECT_DIR$/Spring/Spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/TIL2.iml" filepath="$PROJECT_DIR$/.idea/TIL2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WebStudy/WebStudy.iml" filepath="$PROJECT_DIR$/WebStudy/WebStudy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaweb.iml" filepath="$PROJECT_DIR$/.idea/modules/javaweb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaweb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/javaweb_main.iml" group="javaweb" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaweb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/javaweb_test.iml" group="javaweb" />
+      <module fileurl="file://$PROJECT_DIR$/Web/Web.iml" filepath="$PROJECT_DIR$/Web/Web.iml" />
     </modules>
   </component>
 </project>

@@ -1,6 +1,5 @@
 package beakjoon;
 
-import java.util.HashMap;
 import java.util.Scanner;
 
 public class _1000 {

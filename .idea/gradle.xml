@@ -4,29 +4,22 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/Rx" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/JSP&amp;Servlet" />
+        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/Rx" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/javaweb" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/javaweb" />
+            <option value="$PROJECT_DIR$/JSP&amp;Servlet" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/rx" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/RX" />
+        <option name="gradleJvm" value="1.8" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/Rx" />
+            <option value="$PROJECT_DIR$/RX" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

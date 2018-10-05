@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="Rx:test" external.linked.project.path="$MODULE_DIR$/../../Rx" external.root.project.path="$MODULE_DIR$/../../Rx" external.system.id="GRADLE" external.system.module.group="" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="RX:test" external.linked.project.path="$MODULE_DIR$/../../RX" external.root.project.path="$MODULE_DIR$/../../RX" external.system.id="GRADLE" external.system.module.group="RX" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
-    <output-test url="file://$MODULE_DIR$/../../rx/out/test/classes" />
+    <output-test url="file://$MODULE_DIR$/../../RX/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../Rx/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../Rx/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../Rx/src/test/resources" type="java-test-resource" />
+    <content url="file://$MODULE_DIR$/../../RX/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../RX/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../RX/src/test/resources" type="java-test-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Rx_main" />
+    <orderEntry type="module" module-name="RX_main" />
     <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxjava:2.2.0" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Gradle: org.reactivestreams:reactive-streams:1.0.2" level="project" />
     <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="Rx_main" />
+  <component name="TestModuleProperties" production-module="RX_main" />
 </module>

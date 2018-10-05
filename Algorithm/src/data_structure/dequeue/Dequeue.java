@@ -1,6 +1,7 @@
 package data_structure.dequeue;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 /* <REQUIREMENT>
 push_front X: 정수 X를 덱의 앞에 넣는다.
