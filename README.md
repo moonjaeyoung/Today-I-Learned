@@ -120,3 +120,6 @@ introductory study of reinforcement learning and deep reinforcement learning ❗
 <a href="https://www.youtube.com/watch?v=dZ4vw6v3LcA&list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG/">
 <img src="https://user-images.githubusercontent.com/38183241/46540720-1afb0000-c8f5-11e8-8063-3116b8cfe567.png"/></a>
 
+<br>
+<br>
+<br>
