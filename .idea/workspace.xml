@@ -7,47 +7,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70b57662-819e-44de-a769-c575224f48cb" name="Default" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/rx_main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/rx_main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/rx_test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/rx_test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/WEB-INF/classes/com/demo/servlet/Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/WEB-INF/classes/com/demo/servlet/Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/directive.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/error_occurred_page.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/error_page.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/footer.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/forward_action.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/include.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/include_action.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/main_menu.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/news.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/remark.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/request.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/request_back.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/scriptlet.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/shopping.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/taglib.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/build/libs/exploded/javaweb-1.0-SNAPSHOT.war/test_contentType.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/out/production/classes/com/demo/servlet/Servlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWeb/out/production/classes/com/demo/servlet/Servlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/java/com/demo/servlet/Servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaWeb/src/main/java/com/demo/servlet/Servlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/directive.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/error_occurred_page.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/error_page.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/footer.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/forward_action.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/include.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/include_action.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/main_menu.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/news.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/remark.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/request.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/request_back.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/scriptlet.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/shopping.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/taglib.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/test_contentType.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/advanced_deep_learning/MNIST.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/advanced_deep_learning/MNIST.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MachineLearning/perceptron/perceptron_impl.py" beforeDir="false" afterPath="$PROJECT_DIR$/MachineLearning/perceptron/perceptron_impl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RX/src/main/java/Rx03.java" beforeDir="false" afterPath="$PROJECT_DIR$/RX/src/main/java/Rx03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/Metadata$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/Metadata.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/out/production/Algorithm/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/directive.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/error_occurred_page.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/error_page.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/footer.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/forward_action.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/include.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/include_action.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/main_menu.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/news.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/remark.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/request.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/request_back.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/scriptlet.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/shopping.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/taglib.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/test_contentType.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/주석.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaWeb/src/main/webapp/지시어.jsp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/WebStudy/target/" />
     <ignored path="$PROJECT_DIR$/javaweb/target/" />
@@ -152,12 +136,13 @@
     <session id="-157478432">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="1" />
-          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.20" value="2" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.27" value="1" />
           <entry key="project.open.time.3" value="2" />
@@ -165,7 +150,7 @@
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -180,7 +165,7 @@
           <entry key="java" value="81" />
           <entry key="js" value="14" />
           <entry key="json" value="3" />
-          <entry key="jsp" value="49" />
+          <entry key="jsp" value="51" />
           <entry key="npy" value="1" />
           <entry key="py" value="146" />
           <entry key="sc" value="4" />
@@ -199,7 +184,7 @@
           <entry key="IPNB" value="1" />
           <entry key="JAVA" value="81" />
           <entry key="JSON" value="3" />
-          <entry key="JSP" value="49" />
+          <entry key="JSP" value="51" />
           <entry key="JavaScript" value="14" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Python" value="146" />
@@ -216,8 +201,8 @@
           <entry key="ft" value="6" />
           <entry key="gradle" value="3" />
           <entry key="html" value="276" />
-          <entry key="java" value="10800" />
-          <entry key="jsp" value="2577" />
+          <entry key="java" value="11059" />
+          <entry key="jsp" value="3504" />
           <entry key="py" value="25455" />
           <entry key="sc" value="283" />
           <entry key="scala" value="4" />
@@ -230,8 +215,8 @@
           <entry key="CSV" value="893" />
           <entry key="Groovy" value="3" />
           <entry key="HTML" value="276" />
-          <entry key="JAVA" value="10800" />
-          <entry key="JSP" value="2577" />
+          <entry key="JAVA" value="11059" />
+          <entry key="JSP" value="3504" />
           <entry key="PLAIN_TEXT" value="254" />
           <entry key="Python" value="25455" />
           <entry key="Scala" value="385" />
@@ -254,19 +239,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/주석.jsp">
+        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="364">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/지시어.jsp">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/base.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="636">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="259">
+              <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -274,20 +259,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/MNIST.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="700">
-              <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RX/src/main/java/Rx03.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="190">
+              <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -296,55 +269,9 @@
         <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_2.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret lean-forward="true" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/scriptlet.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="4" selection-start-column="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/shopping.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" selection-start-line="13" selection-end-line="17" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/taglib.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/test_contentType.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/과제/request.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="18" column="63" selection-start-line="18" selection-start-column="63" selection-end-line="18" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -755,7 +682,7 @@
         <entry key="$PROJECT_DIR$/javaweb/build.gradle" value="640423614" />
         <entry key="$PROJECT_DIR$/javaweb/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/javaweb/settings.gradle" value="261529425" />
-        <entry key="$PROJECT_DIR$/rx" value="6151866251653" />
+        <entry key="$PROJECT_DIR$/rx" value="0" />
         <entry key="$PROJECT_DIR$/rx/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/rx/build.gradle" value="392951032" />
         <entry key="$PROJECT_DIR$/rx/gradle/wrapper/gradle-wrapper.properties" value="2585518924" />
@@ -1045,7 +972,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/MachineLearning/linear_regression/load_data_1.py" />
         <option value="$PROJECT_DIR$/MachineLearning/logistic_regression/logistic_regression_1.py" />
         <option value="$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_1.py" />
         <option value="$PROJECT_DIR$/MachineLearning/depp_neural_network/XOR_1.py" />
@@ -1093,9 +1019,10 @@
         <option value="$PROJECT_DIR$/JavaWeb/src/main/java/com/demo/servlet/Servlet.java" />
         <option value="$PROJECT_DIR$/JavaWeb/src/main/webapp/주석.jsp" />
         <option value="$PROJECT_DIR$/JavaWeb/src/main/webapp/page지시어.jsp" />
-        <option value="$PROJECT_DIR$/JavaWeb/src/main/webapp/지시어.jsp" />
         <option value="$PROJECT_DIR$/MachineLearning/advanced_deep_learning/MNIST.py" />
         <option value="$PROJECT_DIR$/RX/src/main/java/Rx03.java" />
+        <option value="$PROJECT_DIR$/JavaWeb/src/main/webapp/지시어.jsp" />
+        <option value="$PROJECT_DIR$/JavaWeb/src/main/webapp/base.jsp" />
       </list>
     </option>
   </component>
@@ -1137,9 +1064,9 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-7" />
-    <option name="width" value="1260" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="988" />
+    <option name="width" value="939" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -1167,6 +1094,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1177,35 +1106,33 @@
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="RX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JavaWeb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="RX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JavaWeb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
               <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="RX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TIL" type="462c0819:PsiDirectoryNode" />
-              <item name="RX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="JavaWeb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TIL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TIL" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaWeb" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1214,7 +1141,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538679369884" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538746238305" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -1255,10 +1182,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MNIST">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.11">
     <configuration name="Rx01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rx01" />
-      <module name="rx_main" />
+      <module name="Rx_main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -1663,7 +1590,9 @@
       <workItem from="1538612174552" duration="3328000" />
       <workItem from="1538623862578" duration="3653000" />
       <workItem from="1538640626342" duration="595000" />
-      <workItem from="1538656154309" duration="2226000" />
+      <workItem from="1538656154309" duration="3207000" />
+      <workItem from="1538716851682" duration="516000" />
+      <workItem from="1538722183420" duration="4697000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1536392988382</created>
@@ -1676,13 +1605,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="249857000" />
+    <option name="totallyTimeSpent" value="256051000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="988" y="0" width="939" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.85196376" visible="true" weight="0.13219616" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.85196376" visible="true" weight="0.18885097" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1692,10 +1621,10 @@
       <window_info id="Learn" order="7" weight="0.32995737" />
       <window_info id="simpleUML" order="8" />
       <window_info id="Web" order="9" sideWeight="0.14803626" side_tool="true" weight="0.13859275" />
-      <window_info anchor="bottom" id="Build" order="0" weight="0.32918552" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.21195039" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Find" order="2" weight="0.32700893" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4989059" visible="true" weight="0.27232143" />
+      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.4989059" visible="true" weight="0.1600902" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3247768" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -1705,7 +1634,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5010941" side_tool="true" weight="0.5264938" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" weight="0.12820514" />
-      <window_info anchor="bottom" id="Messages" order="13" weight="0.1640625" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.20758928" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Java Enterprise" order="15" />
       <window_info anchor="bottom" id="Spring" order="16" />
@@ -1726,7 +1655,7 @@
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="Cargo" order="11" sideWeight="0.49775785" weight="0.32995737" />
-      <window_info anchor="right" id="SciView" order="12" sideWeight="0.4992272" visible="true" weight="0.31449893" />
+      <window_info anchor="right" id="SciView" order="12" sideWeight="0.4992272" weight="0.41247264" />
       <window_info anchor="right" id="Bean Validation" order="13" />
       <window_info anchor="right" id="PlantUML" order="14" weight="0.32995737" />
       <window_info anchor="right" id="UML design tool window" order="15" side_tool="true" weight="0.32995737" />
@@ -1755,13 +1684,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/data.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="7" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/data_advanced_test" />
     <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/data_advance_test.csv" />
     <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/data_zoo.csv">
@@ -1963,17 +1885,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/index.jsp">
+    <entry file="file://$PROJECT_DIR$/RX/src/main/java/Rx03.java" />
+    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/주석.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        <state>
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2012,37 +1930,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/지시어.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="636">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MachineLearning/softmax_regression/softmax_regression_2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MachineLearning/advanced_deep_learning/MNIST.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="31" column="41" lean-forward="true" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
+        <state relative-caret-position="190">
+          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RX/src/main/java/Rx03.java">
+    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/주석.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/지시어.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
-          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaWeb/src/main/webapp/base.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="21" column="3" lean-forward="true" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="3" />
         </state>
       </provider>
     </entry>
@@ -2112,12 +2031,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ArtificialIntelligence</last-edited>
+          <last-edited>rx</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

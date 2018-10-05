@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="rx" external.linked.project.path="$MODULE_DIR$/../../rx" external.root.project.path="$MODULE_DIR$/../../rx" external.system.id="GRADLE" external.system.module.group="rx" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="Rx" external.linked.project.path="$MODULE_DIR$/../../Rx" external.root.project.path="$MODULE_DIR$/../../Rx" external.system.id="GRADLE" external.system.module.group="" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../RX">
-      <excludeFolder url="file://$MODULE_DIR$/../../RX/.gradle" />
-      <excludeFolder url="file://$MODULE_DIR$/../../RX/out" />
-      <excludeFolder url="file://$MODULE_DIR$/../../rx/build" />
+    <content url="file://$MODULE_DIR$/../../Rx">
+      <excludeFolder url="file://$MODULE_DIR$/../../Rx/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Rx/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../Rx/out" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

@@ -13,8 +13,8 @@
       <module name="javaweb" target="1.5" />
       <module name="javaweb_main" target="1.8" />
       <module name="javaweb_test" target="1.8" />
-      <module name="rx_main" target="1.8" />
-      <module name="rx_test" target="1.8" />
+      <module name="Rx_main" target="1.8" />
+      <module name="Rx_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
