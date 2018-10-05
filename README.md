@@ -7,8 +7,9 @@
 
 <br>
 
-Source code file : Name clicked
-Learning materials : Picture Clicked 
+* Source code file : Name clicked
+
+* Learning materials : Picture Clicked 
 
 <br>
 
