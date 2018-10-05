@@ -3,12 +3,12 @@
 
 ### Repository for organizing what I learned today, except for projects.
 
-Completed learning : ✅ / Currently learning : ✏️
+#### Completed learning : ✅ / Currently learning : ✏️
 
 <br>
 
-* Name Clicked : Go to the corresponding source code file.
-* Picture Clicked : Go to the link of the Learning materials.
+#### * Name Clicked : Go to the corresponding source code file.
+#### * Picture Clicked : Go to the link of the Learning materials.
 
 <br>
 
