@@ -97,7 +97,7 @@ Reactive programming paradigm & Concurrency/Functional Programming skill learnin
 Using the Spring Framework to create lightweight Java code and clean MVC Web 🍃
 
 <a href="https://www.youtube.com/watch?v=CsOrR-4nH-s&list=PLPvokKzUkaLeiLUDKpqRdP8jtLU8lLKgR&index=1/">
-<img src="https://user-images.githubusercontent.com/38183241/46540383-1da92580-c8f4-11e8-8886-f1ca50bf07c3.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46541284-914c3200-c8f6-11e8-9842-c51d043775b2.png"/></a>
 
 <br>
 <br>
@@ -118,7 +118,7 @@ Basic learning about many artificial intelligence algorithms and techniques 🤖
 introductory study of reinforcement learning and deep reinforcement learning ❗️❕
 
 <a href="https://www.youtube.com/watch?v=dZ4vw6v3LcA&list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG/">
-<img src="https://user-images.githubusercontent.com/38183241/46540720-1afb0000-c8f5-11e8-8063-3116b8cfe567.png"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46541239-66fa7480-c8f6-11e8-93e3-b2c5cdd74633.png"/></a>
 
 <br>
 <br>
