@@ -6,8 +6,9 @@
 <br>
 
 * Name Clicked : Go to the corresponding source code file.
-
 * Picture Clicked : Go to the link of the Learning materials.
+
+<br>
 
 * ✅ : Completed learning
 * ✏️ : Currently learning
