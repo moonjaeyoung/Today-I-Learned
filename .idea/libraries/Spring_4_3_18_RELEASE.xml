@@ -2,24 +2,24 @@
   <library name="Spring-4.3.18.RELEASE" type="spring">
     <properties version="4.3.18.RELEASE" />
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-instrument-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-context-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-oxm-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-core-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-expression-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-context-support-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-jms-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-messaging-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/aopalliance-1.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-orm-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-jdbc-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-aop-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-test-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/commons-logging-1.2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-aspects-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-tx-4.3.18.RELEASE.jar!/" />
-      <root url="jar://$PROJECT_DIR$/JSP&amp;Servlet/lib/spring-beans-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-instrument-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-instrument-tomcat-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-context-support-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-aspects-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-oxm-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-context-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-core-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-jms-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-expression-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-aop-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-jdbc-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-tx-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-messaging-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-beans-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-orm-4.3.18.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring/lib/spring-test-4.3.18.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
