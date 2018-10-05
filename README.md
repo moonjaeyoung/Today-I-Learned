@@ -114,7 +114,7 @@ Basic learning about many artificial intelligence algorithms and techniques 🤖
 <br>
 <br>
 
-## 11. [First steps to reinforcement learning with OpenAI Gym](https://github.com/gusdnd852/Today-I-Learned/tree/master/ReingorcementLearning)
+## 11. [Reinforcement learning with OpenAI Gym](https://github.com/gusdnd852/Today-I-Learned/tree/master/ReingorcementLearning)
 introductory study of reinforcement learning and deep reinforcement learning ❗️❕
 
 <a href="https://www.youtube.com/watch?v=dZ4vw6v3LcA&list=PLlMkM4tgfjnKsCWav-Z2F-MMFRx-2gMGG/">
