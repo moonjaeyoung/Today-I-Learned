@@ -68,7 +68,7 @@ Learning to improve JavaScript and JQuery skills
 Building web applications with jsp and servlets
 
 <a href="https://www.youtube.com/watch?v=APJAJeePl4g&list=PLYBmkgNU_x7Zj0nCzt5D0qV33C_rU1NK2">
-<img src="https://user-images.githubusercontent.com/38183241/46543641-5220df80-c8fc-11e8-94ec-6907f2071b43.jpg"/></a>
+<img src="https://user-images.githubusercontent.com/38183241/46543692-7381cb80-c8fc-11e8-8611-7ecf401f1150.png"/></a>
 
 <br>
 <br>
