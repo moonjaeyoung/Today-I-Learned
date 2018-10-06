@@ -14,8 +14,8 @@ import java.io.IOException;
  * @When : 2018-10-06 오후 4:40
  * @Homepage : https://github.com/gusdnd852
  */
-@WebServlet(urlPatterns = "/second")
-public class SecondServlet extends HttpServlet {
+@WebServlet(urlPatterns = "/prePostProcessing")
+public class PrePostProcessing extends HttpServlet {
 // 클라이언트에서 서블릿에 요청이 들어오면
 // 서버에서는 서블릿 컨테이너를 만들고 요청이 있을 때 마다
 // 쓰레드가 생성됨.
