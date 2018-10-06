@@ -13,8 +13,8 @@ import java.io.PrintWriter;
  * @When : 2018-10-06 오후 12:21
  * @Homepage : https://github.com/gusdnd852
  */
-@WebServlet(urlPatterns = "/first")
-public class FirstServlet extends HttpServlet {
+@WebServlet(urlPatterns = "/doOrPost")
+public class DoOrPost extends HttpServlet {
     //서블릿 하이어라키 :
     // 서블릿 인터페이스 <- 제너릭서블릿 <- HTTP서블릿 <- 우리가 사용하는서블릿
 

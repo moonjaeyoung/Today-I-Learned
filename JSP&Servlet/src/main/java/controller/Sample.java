@@ -15,7 +15,7 @@ import java.io.PrintWriter;
  */
 @WebServlet(name = "Sample", urlPatterns = "/sample")
 // 맵핑1 : 어노테이션을 통해 맵핑하는 방법
-public class SampleServlet extends HttpServlet {
+public class Sample extends HttpServlet {
     // 서블릿은 동적 웹 어플리케이션 컴포넌트이다.
     // 클라이언트의 요청에 의해 작동하고, 응답은 http를 이용
     // MVC에서 컨트롤러로 이용됨.

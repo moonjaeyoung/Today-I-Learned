@@ -12,7 +12,7 @@
 </head>
 <body>
 
-<form action="first" method="post">
+<form action="doOrPost" method="post">
     <input type="submit" value="post">
 </form>
 

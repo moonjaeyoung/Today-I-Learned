@@ -13,12 +13,12 @@ import java.io.PrintWriter;
  * @Homepage : https://github.com/gusdnd852
  */
 //맵핑2 : Web.xml에 url을 매핑하는 방법
-public class MappingServlet extends HttpServlet {
+public class Mapping extends HttpServlet {
 
     @Override protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
 //    <servlet>
 //        <servlet-name>mapping</servlet-name>
-//        <servlet-class>controller.MappingServlet</servlet-class>
+//        <servlet-class>controller.Mapping</servlet-class>
 //    </servlet>
 //    서블릿을 먼저 Web.xml에 등록을함.
 //     서블릿 네임은 임의로 내가 정하는 것임

@@ -1,17 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
-         version="4.0">
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+    version="4.0">
+
+    <context-param>
+        <param-name>contextParam1</param-name>
+        <param-value>context1</param-value>
+    </context-param>
+    <context-param>
+        <param-name>contextParam2</param-name>
+        <param-value>context2</param-value>
+    </context-param>
+
+    <listener>
+        <listener-class>controller.ContextListener</listener-class>
+    </listener>
 
 
     <servlet>
+        <servlet-name>config1</servlet-name>
+        <servlet-class>controller.Config_1</servlet-class>
+        <init-param>
+            <param-name>id</param-name>
+            <param-value>abcd</param-value>
+        </init-param>
+        <init-param>
+            <param-name>password</param-name>
+            <param-value>12345</param-value>
+        </init-param>
+        <init-param>
+            <param-name>name</param-name>
+            <param-value>gildong</param-value>
+        </init-param>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>config1</servlet-name>
+        <url-pattern>/config1</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
         <servlet-name>mapping</servlet-name>
-        <servlet-class>controller.MappingServlet</servlet-class>
+        <servlet-class>controller.Mapping</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>mapping</servlet-name>
         <url-pattern>/mapping</url-pattern>
     </servlet-mapping>
-
 </web-app>

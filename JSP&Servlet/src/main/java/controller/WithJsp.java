@@ -14,10 +14,10 @@ import java.util.Enumeration;
  * @When : 2018-10-06 오후 5:04
  * @Homepage : https://github.com/gusdnd852
  */
-@WebServlet(urlPatterns = "/third")
+@WebServlet(urlPatterns = "/withJsp")
 // url 패턴에 슬래시 안붙이면 어마어마한 에러가 발생함...
 // 1시간 삽질했네... 하...
-public class ThirdServlet extends HttpServlet {
+public class WithJsp extends HttpServlet {
 
     @Override protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
     }
