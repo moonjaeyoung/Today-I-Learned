@@ -3,15 +3,12 @@
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output-test url="file://$MODULE_DIR$/../../JSP&amp;Servlet/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../JSP&amp;Servlet/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../JSP&amp;Servlet/src/test/java" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/../../JSP&amp;Servlet/src/test/resources" type="java-test-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../JSP&amp;Servlet/src/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="JSP&amp;Servlet_main" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Gradle: org.hamcrest:hamcrest-core:1.3" level="project" />
-    <orderEntry type="library" name="Gradle: io.reactivex.rxjava2:rxjava:2.x.y" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="JSP&amp;Servlet_main" />
 </module>

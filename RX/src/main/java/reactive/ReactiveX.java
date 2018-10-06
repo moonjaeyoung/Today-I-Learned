@@ -23,7 +23,7 @@ public class ReactiveX {
         model.observable()
                 .observeOn(Schedulers.newThread()) // 이 쓰레드에서 구독 시작
                 .filter(n -> n % 2 == 0) // 짝수만 걸러냄
-                .map(data -> data + 100) // 150을 더함
+                .map(data -> data + 100) // 100을 더함
                 .doOnNext(n -> System.out.println(n + " : " + Thread.currentThread().getName())) // Next 호출시 쓰레드 이름과 함께 데이터 출력
                 .observeOn(Schedulers.io()) // 쓰레드 변경
                 .doOnCompleted(() -> System.out.println("종료 : " + Thread.currentThread().getName())) // Complete 호출시 이름과 함꼐 "종료" 출력

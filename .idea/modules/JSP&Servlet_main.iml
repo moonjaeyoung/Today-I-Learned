@@ -1,32 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module external.linked.project.id="JSP&amp;Servlet:main" external.linked.project.path="$MODULE_DIR$/../../JSP&amp;Servlet" external.root.project.path="$MODULE_DIR$/../../JSP&amp;Servlet" external.system.id="GRADLE" external.system.module.group="JSP&amp;Servlet" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
-  <component name="FacetManager">
-    <facet type="web" name="Web Gradle : JSP&amp;Servlet-1.0-SNAPSHOT.war">
-      <configuration>
-        <webroots>
-          <root url="file://C:\Users\Administrator\Desktop\GitHub\TodayILearned\JSP&amp;Servlet\src\main\webapp" relative="/" />
-        </webroots>
-      </configuration>
-    </facet>
-  </component>
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output url="file://$MODULE_DIR$/../../JSP&amp;Servlet/out/production/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../JSP&amp;Servlet/src/main">
-      <sourceFolder url="file://$MODULE_DIR$/../../JSP&amp;Servlet/src/main/java" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../../JSP&amp;Servlet/src/main/resources" type="java-resource" />
-    </content>
+    <content url="file://$MODULE_DIR$/../../JSP&amp;Servlet/src/main" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library name="Gradle: io.reactivex.rxjava2:rxjava:2.x.y">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../../JSP&amp;Servlet/Could not find io.reactivex.rxjava2:rxjava:2.x.y.&#13;&#10;Searched in the following locations:&#13;&#10;  - https:/repo.maven.apache.org/maven2/io/reactivex/rxjava2/rxjava/2.x.y/rxjava-2.x.y.pom&#13;&#10;  - https:/repo.maven.apache.org/maven2/io/reactivex/rxjava2/rxjava/2.x.y/rxjava-2.x.y.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
   </component>
 </module>
