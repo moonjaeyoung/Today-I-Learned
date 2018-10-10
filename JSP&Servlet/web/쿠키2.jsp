@@ -5,7 +5,7 @@
 <%@ page import="java.io.IOException" %>
 <%@ page import="com.sun.org.apache.xpath.internal.operations.String" %><%--
   Created by IntelliJ IDEA.
-  User: Administrator
+  UserBean: Administrator
   Date: 2018-10-09
   Time: 오후 11:35
   To change this template use File | Settings | File Templates.

@@ -15,6 +15,9 @@
     }
 
     session.invalidate();
+    // session.removeValue();
+    // session.invalidate();
+    // 이 둘중 하나로 세션에 저장된 값을 제거함.
 %>
 <script>
     setTimeout(function () {

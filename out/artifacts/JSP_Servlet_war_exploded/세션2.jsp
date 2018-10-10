@@ -1,6 +1,6 @@
 <%@ page import="java.util.Enumeration" %><%--
   Created by IntelliJ IDEA.
-  User: Administrator
+  UserBean: Administrator
   Date: 2018-10-10
   Time: 오전 8:26
   To change this template use File | Settings | File Templates.

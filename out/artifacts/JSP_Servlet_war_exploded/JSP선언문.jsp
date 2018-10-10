@@ -1,6 +1,6 @@
 <%@ page import="java.util.Date" %><%--
   Created by IntelliJ IDEA.
-  User: Administrator
+  UserBean: Administrator
   Date: 2018-10-09
   Time: 오후 7:35
   To change this template use File | Settings | File Templates.

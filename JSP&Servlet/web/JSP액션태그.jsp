@@ -1,6 +1,6 @@
 <%@ page import="java.util.concurrent.TimeUnit" %><%--
   Created by IntelliJ IDEA.
-  User: Administrator
+  UserBean: Administrator
   Date: 2018-10-09
   Time: 오후 10:41
   To change this template use File | Settings | File Templates.

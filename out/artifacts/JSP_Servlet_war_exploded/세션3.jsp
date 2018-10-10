@@ -11,10 +11,13 @@
     Enumeration<String> sessions = session.getAttributeNames();
     while (sessions.hasMoreElements()) {
         String key = sessions.nextElement();
-        out.print(key + " : " + session.getAttribute(key) + " : " + session.getId() + "<br>");
+        out.print(key + " : " + session.getAttribute(key) + "<br>");
     }
 
     session.invalidate();
+    // session.removeValue();
+    // session.invalidate();
+    // 이 둘중 하나로 세션에 저장된 값을 제거함.
 %>
 <script>
     setTimeout(function () {

@@ -1,7 +1,7 @@
 <%@ page import="java.util.concurrent.TimeUnit" %>
-<%@ page import="model.UserData" %><%--
+<%@ page import="util.UserData" %><%--
   Created by IntelliJ IDEA.
-  User: Administrator
+  UserBean: Administrator
   Date: 2018-10-09
   Time: 오후 10:18
   To change this template use File | Settings | File Templates.

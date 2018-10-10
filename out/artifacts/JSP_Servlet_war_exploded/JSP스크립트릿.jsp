@@ -2,7 +2,7 @@
 <%@ page import="java.util.Arrays" %>
 <%@ page import="java.util.stream.Stream" %><%--
   Created by IntelliJ IDEA.
-  User: Administrator
+  UserBean: Administrator
   Date: 2018-10-09
   Time: 오후 7:19
   To change this template use File | Settings | File Templates.

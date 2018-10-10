@@ -53,6 +53,7 @@ public class LifeCycle extends HttpServlet {
 
     @Override protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         System.out.println("doPost 실행");
+
     }
 
 // 서블릿 선처리, 후처리가능

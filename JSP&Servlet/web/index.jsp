@@ -28,14 +28,17 @@
 <a href="JSP리퀘스트1.jsp">JSP 리퀘스트</a> <br>
 <a href="JSP리스판스.jsp">JSP 리스판스</a> <br>
 <a href="JSP액션태그.jsp">JSP 액션태그</a> <br>
-<a href="JSP예외페이지.jsp">JSP 예외페이지</a> <br>
+<a href="JSP예외페이지1.jsp">JSP 예외페이지1</a> <br>
+<a href="JSP예외페이지2.jsp">JSP 예외페이지2</a> <br>
 <br>
 <a href="쿠키1.jsp">쿠키</a> <br>
 <a href="세션1.jsp">세션</a> <br>
 <br>
-<a href="과제_1.jsp">과제_1</a>
-<a href="과제_2.jsp">과제_2</a>
-<a href="과제_3.jsp">과제_3</a>
+<a href="자바빈.jsp">자바 빈 사용해보기</a><br>
+<br>
+<a href="과제_1.jsp">과제_1</a> <br>
+<a href="과제_2.jsp">과제_2</a> <br>
+<a href="과제_3.jsp">과제_3</a> <br>
 <br>
 <a href="SignInView.jsp">로그인</a>
 </body>
