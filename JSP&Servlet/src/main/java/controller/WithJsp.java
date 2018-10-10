@@ -1,5 +1,7 @@
 package controller;
 
+import util.Encoder;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -20,6 +22,7 @@ import java.util.Enumeration;
 public class WithJsp extends HttpServlet {
 
     @Override protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+
     }
 
     @Override protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
@@ -34,7 +37,7 @@ public class WithJsp extends HttpServlet {
 
         Enumeration<String> names = req.getParameterNames();
         while (names.hasMoreElements()) {
-            writer.print(req.getParameter(names.nextElement()));
+            writer.print(req.getParameter(Encoder.korean(names.nextElement())));
         }
     }
 }

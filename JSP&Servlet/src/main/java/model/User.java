@@ -6,4 +6,5 @@ package model;
  * @Homepage : https://github.com/gusdnd852
  */
 public class User {
+
 }

@@ -6,7 +6,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
-import java.io.PrintWriter;
 
 /**
  * @Author : Hyunwoong
@@ -24,11 +23,7 @@ public class Sample extends HttpServlet {
     // 그 결과를 알맞는 뷰(JSP)에 전달하여 사용자에게 응답(response)함.
 
     @Override protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        //doGet, doPost 에서 super 메소드를 호출하면 405에러가 발생함.
-
-        resp.setContentType("text/plain;charset=UTF-8");
-        PrintWriter writer = resp.getWriter();
-        writer.print("맵핑 서블릿");
+        //doget, dopost 에서 super 메소드를 호출하면 405에러가 발생함.
     }
 
     @Override protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
