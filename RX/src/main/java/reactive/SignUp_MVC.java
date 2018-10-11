@@ -177,8 +177,7 @@ class SignUp_MVC {
         // 여기를 참고하세요! 아래 영상은 재생목록 전부다 너무 좋은 영상들이라 다 보시는것도 추천! (케빈 - 모던자바 강의)
 
         Controller() {
-            Model.get().set(PublishSubject.create()) // 옵저버 객체를 생성합니다.
-                    .observable() // 옵저버 객체에 연결합니다.
+            Model.get().observable() // 옵저버 객체에 연결합니다.
                     .observeOn(Schedulers.from(UI)) // 첫번째로 쓰레드를 UI로 설정합니다.
                     .doOnNext(o -> showProgress()) // 프로그레스바를 보여줍니다.
                     .observeOn(Schedulers.from(background)) // 쓰레드를 백그라운드로 전환합니다.
@@ -338,24 +337,7 @@ class SignUp_MVC {
         //https://github.com/gusdnd852/Today-I-Learned/blob/master/RX/src/main/java/observer/ObserverPattern.java
         // //https://www.youtube.com/watch?v=4w4AV1HURJs&index=18&list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY
         // (박가람 - 자바 디자인패턴의 이해)
-        private PublishSubject<List<String>> observer;
-
-        /**
-         * 서브젝트를 설정하는 세터메소드입니다.
-         * 
-         * PublishSubject 객체는 생성되고나서 unsubscribe() 메소드가 호출되지 않으면 버튼을 클릭할떄마다
-         * 이벤트스트림이 중첩되어 구독됩니다. 때문에  버튼을 누를때 마다 콘트롤러에서 create() 메소드를 사용해서
-         * 이 서브젝트를 생성해주고 모델클래스에 매개변수로 주입해줘서 서브젝트당 구독하는 이벤트스트림을 1개로 유지시킵니다.
-         *
-         * @param observer PublishSubject 객체를 외부에서 생성하여 주입합니다.
-         * @return singleton 현재 싱글톤 객체를 리턴합니다. 자기자신(this 혹은 싱글톤)을 리턴하면
-         * 계속해서 순서대로 메소드를 체이닝해서 사용할 수 있어서 매우 편리합니다.
-         * 자주 사용되는 스킬이니 알아두면 좋겠죠?
-         */
-        public Model set(PublishSubject<List<String>> observer) {
-            this.observer = observer;
-            return singleton;
-        }
+        private PublishSubject<List<String>> observer = PublishSubject.create();
 
         /**
          * 서브젝트를 리턴하는 게터메소드입니다.
