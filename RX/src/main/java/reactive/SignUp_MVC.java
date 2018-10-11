@@ -167,6 +167,14 @@ class SignUp_MVC {
          * 
          * 자 차례대로 따라가면서 찬찬히 읽어봅시다.
          */
+
+        // 화살표(람다식)랑 ::(메소드레퍼런스) 문법이 나와서 당황스러우실수 있는데,
+        // 자바8 이후로 지원되는 함수형 프로그래밍 기법들입니다.
+        // 힘수형 프로그래밍 기법에 대해 궁금하신분은
+        // https://github.com/gusdnd852/Today-I-Learned/blob/master/RX/src/main/java/functional/FirstCitizen.java
+        // https://www.youtube.com/watch?v=bCatYAGpg-A&index=2&list=PLRIMoAKN8c6O8_VHOyBOhzBCeN7ShyJ27
+        // 여기를 참고하세요! 아래 영상은 재생목록 전부다 너무 좋은 영상들이라 다 보시는것도 추천! (케빈 - 모던자바 강의)
+
         Controller() {
             Model.get().set(PublishSubject.create()) // 옵저버 객체를 생성합니다.
                     .observable() // 옵저버 객체에 연결합니다.
@@ -324,6 +332,11 @@ class SignUp_MVC {
          * 지금은 이 객체가 아까 그 콘트롤러에서 정해준 대로 일을 수행하도록 콘트롤러를의 이벤트 스트림을 관찰(구독)하고 있고,
          * 콘트롤러로부터 데이터의 입력(onNext)를 대기하고 있는 객체라는 것만 알아두면 됩니다.
          */
+        // 혹시 옵저버패턴에 대해서 더 보고싶은분은 아래를 참고하세요 !
+        //https://github.com/gusdnd852/Today-I-Learned/blob/master/RX/src/main/java/observer/ObserverImpl.java
+        //https://github.com/gusdnd852/Today-I-Learned/blob/master/RX/src/main/java/observer/ObserverPattern.java
+        // //https://www.youtube.com/watch?v=4w4AV1HURJs&index=18&list=PLsoscMhnRc7pPsRHmgN4M8tqUdWZzkpxY
+        // (박가람 - 자바 디자인패턴의 이해)
         private PublishSubject<List<String>> observer;
 
         /**
