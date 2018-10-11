@@ -101,7 +101,7 @@ class SignUp_MVC {
 
         /**
          * 입력을 받고 클릭버튼을 누른다고 가정합니다.
-         * 실제 JSP코드에서는 <form>태그로 대체될 것이고 클릭 이벤트는 <input action="submit"> 으로 대체될 것입니다.
+         * 실제 JSP코드에서는 <form>태그로 대체될 것이고 클릭 이벤트는 <input type="submit"> 으로 대체될 것입니다.
          * input 태그의 속성중 method 속성을 "post"로 지정하면 doPost를 호출 할 수 있습니다.
          * 
          * doPost 같은 경우 url에 쿼리(넘겨받은 email, pw 같은 데이터)가 노출되지 않아서 조금더 보안에 유리합니다.
