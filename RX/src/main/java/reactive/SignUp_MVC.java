@@ -172,6 +172,7 @@ class SignUp_MVC {
         // 자바8 이후로 지원되는 함수형 프로그래밍 기법들입니다.
         // 힘수형 프로그래밍 기법에 대해 궁금하신분은
         // https://github.com/gusdnd852/Today-I-Learned/blob/master/RX/src/main/java/functional/FirstCitizen.java
+        // https://github.com/gusdnd852/Today-I-Learned/blob/master/RX/src/main/java/reactive/ReactiveX.java
         // https://www.youtube.com/watch?v=bCatYAGpg-A&index=2&list=PLRIMoAKN8c6O8_VHOyBOhzBCeN7ShyJ27
         // 여기를 참고하세요! 아래 영상은 재생목록 전부다 너무 좋은 영상들이라 다 보시는것도 추천! (케빈 - 모던자바 강의)
 
