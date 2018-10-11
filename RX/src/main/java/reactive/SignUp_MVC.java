@@ -55,40 +55,7 @@ class SignUp_MVC {
      * 메인 함수 :  뷰에서 회원가입 버튼이 눌린 상황이라고 가정합니다.
      */
     public static void main(String[] args) {
-        Factory.createView()
-                .click();
-    }
-
-    /**
-     * 팩토리 클래스 : 뷰와 콘트롤러를 생성합니다.
-     * 팩토리 클래스를 이용하면 각 클래스의 의존성을 없앨수 있습니다.
-     * 예를들어 A클래스의 생성자가 바뀌어야하면,
-     * 그 A클래스를 생성하는 다른 모든 클래스에서 A클래스의 생성자를 바꿔줘야합니다.
-     * A클래스의 객체들이 여기저기에서 많이 생성되었다면, 고치는데에 엄청나게 오래걸리겠죠?
-     * 그래서 객체를 찍어내는 생성클래스를 따로 만들어 관리하여, 나중에 생성자가 변하거나,
-     * 클래스 생성에 필요한 과정이 변하였을때, 팩토리만 수정하면 모든 클래스에서 A 클래스의 생성정보가
-     * 변하기 때문에 보다 수월하게 유지보수 할 수 있습니다.
-     * 
-     * 실제 개발과정에서는 View는 JSP , Controller는 Servlet이고
-     * 이 둘은 <form> 태그를 이용해 의존성 없이 통신 가능하기 때문에
-     * 웹으로 구현할 떄는 뷰와 콘트롤러 사이에선 사용될 일이 없을 것 같습니다.
-     * 기타 모델, 혹은 엔티티 클래스와 콘트롤러 사이에서 쓰일수 있고,
-     * 디자인패턴 강의 들으신분들을 위해 이런식으로 쓴다고 알려드리기위해 작성해봤습니다.
-     */
-    static class Factory {
-        /**
-         * 뷰를 생성하는 메소드입니다.
-         */
-        static View createView() {
-            return new View();
-        }
-
-        /**
-         * 콘트롤러를 생성하는 메소드입니다.
-         */
-        static Controller createController() {
-            return new Controller();
-        }
+        new View().signUp();
     }
 
     /**
@@ -108,14 +75,13 @@ class SignUp_MVC {
          * 이와 반대로 doGet같은 경우는 www.naver.com/search?query="검색" 같은 방식으로 쿼리가 url에 노출되어
          * 보안에 불리하기 떄문에, 실제 개발중에 반드시 doPost를 사용하여야합니다.
          */
-        void click() {
+        void signUp() {
             System.out.println("이메일 : ");
             String email = scanner.nextLine();
             System.out.println("패스워드 : ");
             String password = scanner.nextLine();
 
-            Factory.createController()
-                    .doPost(email, password);
+            new Controller().doPost(email, password);
         }
     }
 
