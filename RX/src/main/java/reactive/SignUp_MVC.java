@@ -160,8 +160,8 @@ class SignUp_MVC {
                     .doOnNext(o->showProgress()) // 프로그레스가 현재 실행중입니다.
                     .observeOn(Schedulers.from(background)) // 백그라운드로 전환
                     .doOnNext(o -> Model.get().serialize(o)) // 시리얼라이제이션을 시도합니다.
-                    .observeOn(Schedulers.from(UI)) // 프로그레스는 계속 실행중
-                    .doOnNext(o->showProgress()) // UI쓰레드에서 실행중입니다.
+                    .observeOn(Schedulers.from(UI)) // 현재 UI 쓰레드에서는
+                    .doOnNext(o->showProgress()) // 프로그레바가 계속 실행중입니다.
                     .observeOn(Schedulers.from(background)) // 백그라운드 쓰레드로 이동하여
                     .doOnNext(o -> Model.get().complete()) // 모델에게 작업이 끝남을 알립니다.
                     .observeOn(Schedulers.from(UI)) // 쓰레드를 UI로 전환합니다.
