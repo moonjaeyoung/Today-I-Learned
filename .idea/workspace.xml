@@ -6,7 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ea968a3-22d7-40ce-a1f9-4721d1af41d1" name="Default Changelist" comment="" />
+    <list default="true" id="2ea968a3-22d7-40ce-a1f9-4721d1af41d1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/JDBC/src/BaseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/PreStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JDBC/src/SQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2e50aebb-e7f3-4747-8cef-1635b6c46a5a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2e50aebb-e7f3-4747-8cef-1635b6c46a5a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/2e50aebb-e7f3-4747-8cef-1635b6c46a5a/storage_v2/_src_/schema/MONKEY.0__ihw.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/2e50aebb-e7f3-4747-8cef-1635b6c46a5a/storage_v2/_src_/schema/MONKEY.0__ihw.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JDBC/src/Model.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JDBC/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JDBC/Model.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/JSP&amp;Servlet/.gradle/" />
     <ignored path="$PROJECT_DIR$/JSP&amp;Servlet/build/" />
     <ignored path="$PROJECT_DIR$/JSP&amp;Servlet/out/" />
@@ -45,7 +54,23 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Oracle - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Oracle - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="MONKEY: schema" type="ac44c5e0:OracleImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="Oracle - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="MONKEY: schema" type="ac44c5e0:OracleImplModel$Schema" />
+        <item name="MEMBER: table" type="be4db629:OracleImplModel$Table" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="ExternalProjectsData">
@@ -85,12 +110,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Annotation Inference Report" value="1" />
+          <entry key="MEMBER" value="1" />
           <entry key="class" value="21" />
           <entry key="coffee" value="1" />
           <entry key="gradle" value="11" />
           <entry key="groovy" value="3" />
           <entry key="html" value="5" />
-          <entry key="java" value="158" />
+          <entry key="java" value="164" />
           <entry key="js" value="4" />
           <entry key="json" value="1" />
           <entry key="jsp" value="73" />
@@ -98,7 +124,7 @@
           <entry key="puml" value="1" />
           <entry key="py" value="20" />
           <entry key="rb" value="1" />
-          <entry key="sql" value="2" />
+          <entry key="sql" value="3" />
           <entry key="uml" value="1" />
           <entry key="xml" value="13" />
         </counts>
@@ -107,9 +133,10 @@
         <counts>
           <entry key="CLASS" value="21" />
           <entry key="CoffeeScript" value="1" />
+          <entry key="Database Element" value="1" />
           <entry key="Groovy" value="11" />
           <entry key="HTML" value="5" />
-          <entry key="JAVA" value="158" />
+          <entry key="JAVA" value="164" />
           <entry key="JSON" value="1" />
           <entry key="JSP" value="73" />
           <entry key="JavaScript" value="3" />
@@ -117,7 +144,7 @@
           <entry key="PlantUML file" value="1" />
           <entry key="Python" value="20" />
           <entry key="Ruby" value="1" />
-          <entry key="Scratch" value="7" />
+          <entry key="Scratch" value="8" />
           <entry key="UML" value="1" />
           <entry key="XML" value="13" />
         </counts>
@@ -125,17 +152,17 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="coffee" value="20" />
-          <entry key="dummy" value="219" />
+          <entry key="dummy" value="245" />
           <entry key="evaluation" value="8" />
           <entry key="ft" value="576" />
           <entry key="gradle" value="14" />
-          <entry key="java" value="43564" />
+          <entry key="java" value="44902" />
           <entry key="json" value="1" />
           <entry key="jsp" value="12075" />
           <entry key="puml" value="14" />
           <entry key="py" value="4135" />
           <entry key="rb" value="18" />
-          <entry key="sql" value="2259" />
+          <entry key="sql" value="2567" />
           <entry key="xml" value="451" />
         </counts>
       </usages-collector>
@@ -143,14 +170,15 @@
         <counts>
           <entry key="CoffeeScript" value="20" />
           <entry key="Groovy" value="14" />
-          <entry key="JAVA" value="43564" />
+          <entry key="JAVA" value="44900" />
           <entry key="JSON" value="1" />
           <entry key="JSP" value="12075" />
-          <entry key="PLAIN_TEXT" value="219" />
+          <entry key="PLAIN_TEXT" value="245" />
           <entry key="PlantUML file" value="14" />
           <entry key="Python" value="4143" />
           <entry key="Ruby" value="18" />
-          <entry key="Scratch" value="2259" />
+          <entry key="SQL" value="2" />
+          <entry key="Scratch" value="2567" />
           <entry key="VTL" value="576" />
           <entry key="XML" value="451" />
         </counts>
@@ -181,42 +209,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/model/UserBean.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/model/Business.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/Mapping.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="15" column="40" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/DoOrPost.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1238">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/WithJsp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="393">
@@ -225,11 +217,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RX/src/main/java/reactive/SignUp_MVC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8316">
-              <caret line="154" column="79" selection-start-line="154" selection-start-column="79" selection-end-line="154" selection-end-column="79" />
+            <state relative-caret-position="-216">
+              <caret line="136" column="29" lean-forward="true" selection-start-line="136" selection-start-column="29" selection-end-line="136" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1700#1701#0" expanded="true" />
@@ -252,32 +244,67 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/User.java">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2e50aebb-e7f3-4747-8cef-1635b6c46a5a/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="324">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/c068e3a2613eed2aa99a30478efd6794301f0975/rxjava-1.1.6-sources.jar!/rx/schedulers/Schedulers.java">
+        <entry file="file://$PROJECT_DIR$/JDBC/src/BaseDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-151">
-              <caret line="62" column="55" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="55" />
+            <state relative-caret-position="281">
+              <caret line="33" column="14" lean-forward="true" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JDBC/src/SQL.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JDBC/src/PreStatement.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding>
-                <element signature="e#4859#4860#0" expanded="true" />
-                <element signature="e#4907#4908#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/List.java">
+        <entry file="das://2e50aebb-e7f3-4747-8cef-1635b6c46a5a/schema/MONKEY/table/MEMBER">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/c068e3a2613eed2aa99a30478efd6794301f0975/rxjava-1.1.6-sources.jar!/rx/functions/Action1.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -308,8 +335,8 @@
         <option value="Jsp File" />
         <option value="Singleton" />
         <option value="Python Script" />
-        <option value="Class" />
         <option value="Builder" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -703,10 +730,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JSP&amp;Servlet/web/세션2.jsp" />
-        <option value="$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/LifeCycle.java" />
-        <option value="$PROJECT_DIR$/JSP&amp;Servlet/web/세션3.jsp" />
-        <option value="$PROJECT_DIR$/JSP&amp;Servlet/web/JSP 에러페이지.jsp" />
         <option value="$PROJECT_DIR$/ML/tensorflow/tensorflow_1.py" />
         <option value="$PROJECT_DIR$/ML/tensorflow/tensorflow_3.py" />
         <option value="$PROJECT_DIR$/ML/tensorflow/macro.py" />
@@ -746,14 +769,18 @@
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3f523288-700b-4b88-b96d-035d2281bf1e/console.sql" />
         <option value="$PROJECT_DIR$/AI/perceptron/perceptron_sckit_learn.py" />
         <option value="$PROJECT_DIR$/AI/perceptron/perceptron_sckit.py" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2e50aebb-e7f3-4747-8cef-1635b6c46a5a/console.sql" />
         <option value="$PROJECT_DIR$/DB/src/Model.java" />
-        <option value="$PROJECT_DIR$/JDBC/src/Model.java" />
         <option value="$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/model/Business.java" />
         <option value="$PROJECT_DIR$/RX/src/main/java/reactive/Publish.java" />
         <option value="$PROJECT_DIR$/RX/src/main/java/reactive/SignUpUsecase.java" />
         <option value="$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/WithJsp.java" />
         <option value="$PROJECT_DIR$/RX/src/main/java/reactive/SignUp_MVC.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/2e50aebb-e7f3-4747-8cef-1635b6c46a5a/console.sql" />
+        <option value="$PROJECT_DIR$/JDBC/src/Model.java" />
+        <option value="$PROJECT_DIR$/JDBC/src/PrefStatementDAO.java" />
+        <option value="$PROJECT_DIR$/JDBC/src/SQL.java" />
+        <option value="$PROJECT_DIR$/JDBC/src/BaseDAO.java" />
+        <option value="$PROJECT_DIR$/JDBC/src/PreStatement.java" />
       </list>
     </option>
   </component>
@@ -790,7 +817,7 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
+    <option name="x" value="953" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
@@ -969,71 +996,12 @@
           <expand>
             <path>
               <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSP&amp;Servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSP&amp;Servlet" type="462c0819:PsiDirectoryNode" />
+              <item name="JDBC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSP&amp;Servlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSP&amp;Servlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JSP&amp;Servlet" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="observer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RX" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="reactive" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TodayILearned" type="b2602c69:ProjectViewProjectNode" />
@@ -1064,8 +1032,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539312577688" />
-    <property name="database.console.LAST_STATE" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539321977410" />
+    <property name="database.console.LAST_STATE" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="jdk.selected.PYTHON_MODULE" value="Python 3.6" />
@@ -1115,9 +1083,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SignUp_MVC">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.A" />
+  <component name="RunManager" selected="Application.PreStatement">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.B" />
       <module name="Algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -1130,16 +1098,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.B" />
-      <module name="Algorithm" />
+    <configuration name="BaseDAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BaseDAO" />
+      <module name="JDBC" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1158,8 +1120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Model" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Model" />
+    <configuration name="PreStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PreStatement" />
       <module name="JDBC" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -1504,19 +1466,19 @@
       <item itemvalue="Tomcat Server.JSP&amp;Servlet" />
       <item itemvalue="Tomcat Server.DB" />
       <item itemvalue="Tomcat Server.Spring" />
-      <item itemvalue="Application.A" />
       <item itemvalue="Application.B" />
-      <item itemvalue="Application.Model" />
+      <item itemvalue="Application.BaseDAO" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.SignUp_MVC" />
+      <item itemvalue="Application.PreStatement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PreStatement" />
+        <item itemvalue="Application.BaseDAO" />
         <item itemvalue="Application.SignUp_MVC" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Model" />
         <item itemvalue="Application.B" />
-        <item itemvalue="Application.A" />
       </list>
     </recent_temporary>
   </component>
@@ -1543,12 +1505,12 @@
       <workItem from="1539079873012" duration="33040000" />
       <workItem from="1539177870999" duration="199000" />
       <workItem from="1539178102656" duration="262000" />
-      <workItem from="1539178392029" duration="51600000" />
+      <workItem from="1539178392029" duration="58865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135226000" />
+    <option name="totallyTimeSpent" value="142491000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1561,8 +1523,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09328358" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08528785" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -1575,8 +1538,8 @@
       <window_info anchor="bottom" id="Database Console" weight="0.37429538" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.328125" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.328125" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49671772" visible="true" weight="0.28125" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.328125" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49671772" weight="0.2700893" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.3984375" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
@@ -1602,7 +1565,7 @@
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="right" id="Gradle" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Database" order="8" visible="true" weight="0.06130064" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info anchor="right" id="PlantUML" order="11" sideWeight="0.4986979" weight="0.32932165" />
@@ -1625,41 +1588,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/MyB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-          <folding>
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#634#635#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/Servlets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/MySingleton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/web/JSP액션태그.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/web/JSP지시자.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-150" />
@@ -1909,20 +1837,6 @@
         <state relative-caret-position="-8" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JDBC/src/Model.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2e50aebb-e7f3-4747-8cef-1635b6c46a5a/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/model/UserBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
@@ -1962,13 +1876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RX/src/main/java/reactive/ReactiveX.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="49" column="44" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/JSP&amp;Servlet/src/main/java/controller/Mapping.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
@@ -1997,10 +1904,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.6/c068e3a2613eed2aa99a30478efd6794301f0975/rxjava-1.1.6-sources.jar!/rx/functions/Action1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RX/src/main/java/reactive/ReactiveX.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="49" column="44" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/RX/src/main/java/reactive/SignUp_MVC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8316">
-          <caret line="154" column="79" selection-start-line="154" selection-start-column="79" selection-end-line="154" selection-end-column="79" />
+        <state relative-caret-position="-216">
+          <caret line="136" column="29" lean-forward="true" selection-start-line="136" selection-start-column="29" selection-end-line="136" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1700#1701#0" expanded="true" />
@@ -2017,6 +1938,44 @@
             <element signature="e#16111#16112#0" expanded="true" />
             <element signature="e#16535#16536#0" expanded="true" />
             <element signature="e#16590#16591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/2e50aebb-e7f3-4747-8cef-1635b6c46a5a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://2e50aebb-e7f3-4747-8cef-1635b6c46a5a/schema/MONKEY/table/MEMBER">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDBC/src/SQL.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDBC/src/BaseDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="33" column="14" lean-forward="true" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JDBC/src/PreStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
