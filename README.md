@@ -123,7 +123,7 @@ introductory study of reinforcement learning and deep reinforcement learning
 <br>
 <br>
 
-## 12. [Oracle Database Practice ✅](https://github.com/gusdnd852/Today-I-Learned/tree/master/DB)
+## 12. [Oracle Database Practice ✅](https://github.com/gusdnd852/Today-I-Learned/tree/master/JDBC)
 Practice on relational databases and SQL statements
 
 <br>
