@@ -401,6 +401,7 @@ class SignUp_MVC {
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
+            System.out.println("백그라운드 작업이 완료되었습니다. : " + Thread.currentThread().getName());
             observer.onCompleted();
         }
     }
@@ -469,7 +470,7 @@ class SignUp_MVC {
 //
 //        이메일 :
 //        example@naver.com
-//         패스워드 :
+//        패스워드 :
 //        123456789
 //        프로그레스바 : UI
 //        작업 시작, 네트워크 연결중 : BACKGROUND
@@ -480,6 +481,7 @@ class SignUp_MVC {
 //        저장된 email : example@naver.com : BACKGROUND
 //        저장된 password : 123456789 : BACKGROUND
 //        프로그레스바 : UI
+//        백그라운드 작업이 완료되었습니다. : BACKGROUND
 //        작업성공, 프로그레스바를 종료합니다 : UI
 //        작업 성공, 뷰를 업데이트합니다. : UI
 //
