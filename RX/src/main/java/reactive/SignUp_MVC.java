@@ -148,6 +148,22 @@ class SignUp_MVC {
                     .doOnNext(o -> showProgress()) // 프로그레스바를 보여줍니다.
                     .observeOn(Schedulers.from(background)) // 쓰레드를 백그라운드로 전환합니다.
                     .doOnNext(o -> Model.get().signUp(o)) // onNext에서 들어온 데이터를 이용해 회원가입을 시도합니다.
+                    .observeOn(Schedulers.from(UI)) // 원래 이 부분은 없어야하는데 동시에 작업이 돌아가고 있다는 것을 보여주기 위해 프로그레스가 진행중임을 알립니다.
+                    .doOnNext(o->showProgress()) // 물론 프로그레스는 UI에서 돌고 있겠죠?
+                    .observeOn(Schedulers.from(background)) // 백그라운드 쓰레드로 전환합니다.
+                    .doOnNext(o -> Model.get().save(o)) // 데이터베이스에 저장합니다.
+                    .map(o -> Entity.builder() // 시리얼라이제이션을 위해 데이터를 엔티티로 만들어줍니다.
+                            .setEmail(o.get(0))
+                            .setPassword(o.get(1))
+                            .build())
+                    .observeOn(Schedulers.from(UI)) // 마찬가지로 UI쓰레드에서 돌고 있다는 것을 알리기 위해..
+                    .doOnNext(o->showProgress()) // 프로그레스가 현재 실행중입니다.
+                    .observeOn(Schedulers.from(background)) // 백그라운드로 전환
+                    .doOnNext(o -> Model.get().serialize(o)) // 시리얼라이제이션을 시도합니다.
+                    .observeOn(Schedulers.from(UI)) // 프로그레스는 계속 실행중
+                    .doOnNext(o->showProgress()) // UI쓰레드에서 실행중입니다.
+                    .observeOn(Schedulers.from(background)) // 백그라운드 쓰레드로 이동하여
+                    .doOnNext(o -> Model.get().complete()) // 모델에게 작업이 끝남을 알립니다.
                     .observeOn(Schedulers.from(UI)) // 쓰레드를 UI로 전환합니다.
                     .doOnCompleted(this::updateView) // 성공시 액션 : 뷰를 업데이트 합니다.
                     .doOnError(this::onError) // 실패시 액션 : 에러를 보여줍니다.
@@ -241,7 +257,7 @@ class SignUp_MVC {
          * 마찬가지로 이 부분도 response 객체가 수행할 예정입니다.
          */
         void showProgress() {
-            System.out.println("버튼 클릭됨, 프로그레스바 호출 : " + Thread.currentThread().getName());
+            System.out.println("프로그레스바 : " + Thread.currentThread().getName());
         }
 
         /**
@@ -330,7 +346,6 @@ class SignUp_MVC {
                 }
 
                 System.out.println("작업 시작, 네트워크 연결중 : " + Thread.currentThread().getName());
-                save(info);
             } else observer.onError(new IllegalAccessException("Network Access ERROR"));
         }
 
@@ -349,11 +364,6 @@ class SignUp_MVC {
                     e.printStackTrace();
                 }
                 System.out.println("작업 중, 데이터베이스 접속중 : " + Thread.currentThread().getName());
-
-                serialize(Entity.builder()
-                        .setEmail(info.get(0))
-                        .setPassword(info.get(1))
-                        .build());
 
             } else observer.onError(new IllegalArgumentException("Argument ERROR"));
         }
@@ -378,7 +388,6 @@ class SignUp_MVC {
                 System.out.println("접속완료, 직렬화 후 저장중 : " + Thread.currentThread().getName());
                 System.out.println("저장된 email : " + entity.email + " : " + Thread.currentThread().getName());
                 System.out.println("저장된 password : " + entity.password + " : " + Thread.currentThread().getName());
-                complete();
             } else observer.onError(new SerializationException("Serialization ERROR"));
         }
 
@@ -457,25 +466,22 @@ class SignUp_MVC {
         }
     }
 }
-
-/*
- *
- * 출력값 :
- *
- * 이메일 :
- * example@naver.com
- * 패스워드 :
- * 123456789
- * 버튼 클릭됨, 프로그레스바 호출 : UI
- * 작업 시작, 네트워크 연결중 : BACKGROUND
- * 작업 중, 데이터베이스 접속중 : BACKGROUND
- * 접속완료, 직렬화 후 저장중 : BACKGROUND
- * 저장된 email : example@naver.com : BACKGROUND
- * 저장된 password : 123456789 : BACKGROUND
- * 작업성공, 프로그레스바를 종료합니다 : UI
- * 작업 성공, 뷰를 업데이트합니다. : UI
- *
- * Process finished with exit code 0
- *
- *
- * **/
+// 출력 결과 :
+//
+//        이메일 :
+//        example@naver.com
+//         패스워드 :
+//        123456789
+//        프로그레스바 : UI
+//        작업 시작, 네트워크 연결중 : BACKGROUND
+//        프로그레스바 : UI
+//        작업 중, 데이터베이스 접속중 : BACKGROUND
+//        프로그레스바 : UI
+//        접속완료, 직렬화 후 저장중 : BACKGROUND
+//        저장된 email : example@naver.com : BACKGROUND
+//        저장된 password : 123456789 : BACKGROUND
+//        프로그레스바 : UI
+//        작업성공, 프로그레스바를 종료합니다 : UI
+//        작업 성공, 뷰를 업데이트합니다. : UI
+//
+//        Process finished with exit code 0
