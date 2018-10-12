@@ -152,10 +152,7 @@ class SignUp_MVC {
                     .doOnNext(o->showProgress()) // 물론 프로그레스는 UI에서 돌고 있겠죠?
                     .observeOn(Schedulers.from(background)) // 백그라운드 쓰레드로 전환합니다.
                     .doOnNext(o -> Model.get().save(o)) // 데이터베이스에 저장합니다.
-                    .map(o -> Entity.builder() // 시리얼라이제이션을 위해 데이터를 엔티티로 만들어줍니다.
-                            .setEmail(o.get(0))
-                            .setPassword(o.get(1))
-                            .build())
+                    .map(o -> Model.get().transform(o)) // 데이터를 엔티티로 변환해줍니다.
                     .observeOn(Schedulers.from(UI)) // 마찬가지로 UI쓰레드에서 돌고 있다는 것을 알리기 위해..
                     .doOnNext(o->showProgress()) // 프로그레스가 현재 실행중입니다.
                     .observeOn(Schedulers.from(background)) // 백그라운드로 전환
@@ -365,6 +362,14 @@ class SignUp_MVC {
                 System.out.println("작업 중, 데이터베이스 접속중 : " + Thread.currentThread().getName());
 
             } else observer.onError(new IllegalArgumentException("Argument ERROR"));
+        }
+
+
+        public Entity transform(List<String> info) {
+            return Entity.builder()
+                    .setEmail(info.get(0))
+                    .setPassword(info.get(1))
+                    .build();
         }
 
         /**
